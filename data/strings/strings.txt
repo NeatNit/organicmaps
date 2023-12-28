@@ -105,7 +105,7 @@
     fa = لغو دانلود
     fi = Peruuta lataus
     fr = Annuler le téléchargement
-    he = בטל הורדת הקובץ
+    he = בטל הורדה
     hu = Letöltés megszakítása
     id = Batalkan Pengunduhan
     it = Annulla il download
@@ -190,7 +190,7 @@
     fa = دانلود نقشه‌ها
     fi = Lataa karttoja
     fr = Télécharger des cartes
-    he = הורד קבצי מפות
+    he = הורד מפות
     hu = Térképek letöltése
     id = Unduh Peta
     it = Scarica mappe
@@ -233,7 +233,7 @@
     fa = دانلود ناموفق بود. برای تلاش مجدد لمس کنید
     fi = Lataus epäonnistui, yritä uudelleen koskettamalla
     fr = Échec lors du téléchargement. Appuyer pour réessayer.
-    he = הורדת הקובץ נכשלה. לחץ שוב לניסיון נוסף
+    he = .הורדת הקובץ נכשלה. לחץ לניסיון נוסף
     hu = Letöltés sikertelen. Kérjük próbálja újra!
     id = Pengunduhan gagal, sentuh untuk mencoba sekali lagi
     it = Download fallito. Riprova.
@@ -276,7 +276,7 @@
     fa = درحال دانلود
     fi = Ladataan…
     fr = Téléchargement…
-    he = מוריד….
+    he = מוריד…
     hu = Letöltés…
     id = Sedang mengunduh…
     it = Download in corso…
@@ -363,7 +363,7 @@
     fa = نظر خود را بیان کنید
     fi = Jätä arviointi
     fr = Laisser un commentaire
-    he = הבע דעתך
+    he = השאר ביקורת
     hu = Ajánlás írása
     id = Tulis Ulasan
     it = Lascia una recensione
@@ -482,7 +482,7 @@
     fa = مکان من
     fi = Sijaintini
     fr = Ma position
-    he = מיקומי
+    he = המיקום שלי
     hu = Saját helyzet
     id = Posisi Saya
     it = La mia posizione
@@ -568,6 +568,7 @@
     fa = جست‌وجو
     fi = Haku
     fr = Recherche
+    he = חיפוש
     hu = Keresés
     id = Cari
     it = Cerca
@@ -696,7 +697,7 @@
     fa = سرویس موقعیت مکانی شما غیر فعال است. لطفا جهت کارکرد صحیح نرم افزار آن را فعال کنید.
     fi = Laitteen tai sovelluksen kaikki sijaintipalvelut ovat tällä hetkellä poissa käytöstä. Ota ne käyttöön Asetukset-valikossa.
     fr = Tous les services de localisation de cet appareil sont désactivés, ou ils le sont pour cette application. Veuillez les activer dans les paramètres.
-    he = שרותי המיקום של מכשיר או ישום זה זה כבויים. הכנס ל "הגדרות" Settings)) כדי להדליקם.
+    he = שרותי המיקום של מכשיר או ישום זה זה כבויים. יש להפעילם דרך "הגדרות" (Settings).
     hu = Jelenleg az eszköz vagy alkalmazás helymeghatározási szolgáltatásai le vannak tiltva. Kérjük, engedélyezze őket a Beállításokban.
     id = Saat ini semua Layanan Lokasi untuk perangkat atau aplikasi ini non-aktif. Mohon aktifkan lewat Setelan.
     it = Attualmente tutti i servizi di localizzazione per questo dispositivo o applicazione sono disattivati. Si prega di abilitarli in Impostazioni.
@@ -739,6 +740,7 @@
     fa = بر روی نقشه نمایش بده
     fi = Näytä kartalla
     fr = Voir sur la carte
+    he = הצג במפה
     hu = Megjelenítés a térképen
     id = Tampilkan di peta
     it = Mostra sulla mappa
@@ -781,7 +783,7 @@
     fa = دانلود نقشه
     fi = Lataa kartta
     fr = Téléchargez la carte
-    he = הורידו מפה
+    he = הורד מפה
     hu = Térkép letöltése
     id = Unduh Peta
     it = Scarica mappa
@@ -909,7 +911,7 @@
     fa = Organic Maps درباره‌ی
     fi = Tietoa Organic Maps:stä
     fr = À propos de Organic Maps
-    he = Organic Maps אודות
+    he = אודות Organic Maps
     hu = Az Organic Mapsről
     id = Tentang Organic Maps
     it = Informazioni su Organic Maps
@@ -991,7 +993,7 @@
     fa = • بدون تبلیغات ، ردیابی ، جمع آوری داده ها
     fi = • Ei mainoksia, ei seurantaa, ei tiedonkeruuta
     fr = • Pas d'annonces, pas de suivi, pas de collecte de données
-    he = • אין מודעות, ללא מעקב, ללא איסוף נתונים
+    he = • ללא מודעות, ללא מעקב, ללא איסוף נתונים
     hu = • Nincs hirdetés, nincs nyomon követés, nincs adatgyűjtés
     id = • Tidak ada iklan, tidak ada pelacakan, tidak ada pengumpulan data
     it = • Nessun annuncio, nessun tracciamento, nessuna raccolta di dati
@@ -1117,7 +1119,7 @@
     fa = برنامه منبع باز ایجاد شده توسط علاقه مندان و داوطلبان.
     fi = Harrastajien ja vapaaehtoisten luoma avoimen lähdekoodin sovellus.
     fr = Application open source créée par des amateurs et des bénévoles.
-    he = יישום קוד פתוח שנוצר על ידי חובבים ומתנדבים.
+    he = אפליקציית קוד פתוח שנוצרה על ידי חובבים ומתנדבים.
     hu = A rajongók és az önkéntesek által létrehozott nyílt forráskódú alkalmazás.
     id = Aplikasi open-source yang dibuat oleh penggemar dan sukarelawan.
     it = Applicazione open source creata da appassionati e volontari.
@@ -1286,7 +1288,7 @@
     fa = دانلود
     fi = Lataa
     fr = Télécharger
-    he = הורד
+    he = הורדה
     hu = Letöltés
     id = Unduh
     it = Scarica
@@ -1328,7 +1330,7 @@
     eu = Mesedez, deskonektatu USB kablea edo sartu SD memoria Organic Maps erabiltzeko
     fi = Irrota USB-kaapeli tai syötä muistikortti käyttääksesi Organic Maps -sovellusta
     fr = Veuillez débrancher le câble USB ou insérer la carte SD pour utiliser Organic Maps
-    he = אנא נתק כבל USB או הכנס כרטיס זכרון כדי להשתמש  ב Organic Maps.
+    he = אנא נתק כבל USB או הכנס כרטיס זכרון כדי להשתמש  ב-Organic Maps.
     hu = Kérjük bontsa az USB kapcsolatot vagy helyezzen be memóriakártyát a Organic Maps használatához
     id = Mohon lepas kabel USB atau masukkan kartu memori untuk menggunakan Organic Maps
     it = Si prega di scollegare il cavo USB o inserire la scheda di memoria per utilizzare Organic Maps
@@ -1371,7 +1373,7 @@
     fa = لطفا مقداری از فضای ذخیره‌سازی را آزاد نمایید
     fi = Vapauta ensin tilaa SD-kortilta/USB-massamuistilta käyttääksesi sovellusta
     fr = Veuillez d'abord libérer de l'espace sur la carte SD/le stockage USB afin d'utiliser l'appli
-    he = אנא פנה שטח אחסון על ה SD card/USB כדי להשתמש בישום
+    he = אנא פנה שטח אחסון בכרטיס הזיכרון או בכונן USB כדי להשתמש בישום
     hu = Kérjük szabadítson fel helyet az SD kártyán / USB tárolón az alkalmazás használatához!
     id = Mohon bebaskan sejumlah ruang pada kartu SD/penyimpanan USB terlebih dahulu untuk menggunakan aplikasi
     it = Libera prima dello spazio sulla scheda Sd/ memoria USB per usare l'app
@@ -1413,7 +1415,7 @@
     fa = قبل از استفاده از اپلیکیشن, اجازه دهید تا ما نقشه جهانی را بر روی موبایل شما دانلود کنیم.\nمقدار %@ از حافظه شما اشغال می شود.
     fi = Ennen aloitusta laitteelle tulee ladata yleinen maailmankartta.\nSe tarvitsee yhteensä %@ tilaa.
     fr = Avant de commencer, permettez-nous de télécharger la carte générale du monde dans votre appareil.\n%@ de données sont nécessaires.
-    he = תחילה, נוריד למכשירך מפה כללית של העולם.\nדורש %@ של נתונים.
+    he = תחילה, נוריד למכשירך מפה כללית של העולם.\nמפה זו דורשת נפח אחסון של %@.
     hu = Első használat előtt letöltjük a világtérképet.\n%@ tárolóhely szükséges.
     id = Sebelum Anda mulai izinkan kami mengunduh peta dunia secara umum ke perangkat Anda.\nHal ini memerlukan data %@.
     it = Prima di iniziare è necessario scaricare la mappa generale del mondo sul tuo dispositivo.\nLa dimensione del download è di %@.
@@ -1753,7 +1755,7 @@
     fa = اضافه کردن مجموعه جدید
     fi = Lisää uusi valikoima
     fr = Créer une nouvelle liste
-    he = הוסף קבוצה חדשה
+    he = הוסף רשימה חדשה
     hu = Új csoport létrehozása
     id = Tambahkan Set baru
     it = Aggiungi nuovo elenco
@@ -1797,7 +1799,7 @@
     fa = رنگ نشانه
     fi = Kirjanmerkin väri
     fr = Couleur du signet
-    he = צבע רשימת האתרים
+    he = צבע סימניה
     hu = Könyvjelző színe
     id = Warna Penanda
     it = Colore Luogo preferito
@@ -1839,7 +1841,7 @@
     eu = Markagailuen zerrendaren izena
     fi = Kirjanmerkkivalikoiman nimi
     fr = Nom du groupe de signets
-    he = שם רשימת האתרים
+    he = שם רשימת הסימניות
     hu = Könyvjelzőcsoport neve
     id = Nama Set Penanda
     it = Nome dell'elenco
@@ -1880,7 +1882,7 @@
     eu = Markagailuen zerrenda
     fi = Kirjanmerkkivalikoimat
     fr = Groupes de signets
-    he = רשימות אתרים
+    he = רשימות סימניות
     hu = Könyvjelzőcsoportok
     id = Set Penanda
     it = Elenchi di luoghi preferiti
@@ -1923,7 +1925,7 @@
     fa = نشانه‌ها
     fi = Kirjanmerkit
     fr = Signets
-    he = רשימות אתרים
+    he = סימניות
     hu = Könyvjelzők
     id = Penanda
     it = Luoghi preferiti
@@ -1966,7 +1968,7 @@
     fa = نشانه‌ها و مسیر
     fi = Kirjanmerkit ja reitit
     fr = Signets et parcours
-    he = רשימות אתרים ונתיבים
+    he = סימניות ונתיבים
     hu = Könyvjelzők és nyomvonalak
     id = Penanda dan jalur
     it = Luoghi preferiti e percorsi
@@ -2137,7 +2139,7 @@
     fa = لیست
     fi = Luettelo
     fr = Liste
-    he = קבוצה
+    he = רשימה
     hu = Lista
     id = Daftar
     it = Elenco
@@ -2223,6 +2225,7 @@
     fa = ذخیره نقشه‌ها در
     fi = Tallenna kartat kohteeseen
     fr = Enregistrer les cartes dans
+    he = שמור מפות אל
     hu = Térképek mentési helye
     id = Simpan peta di
     it = Salva mappe in
@@ -2266,7 +2269,7 @@
     fa = مسیری را که نقشه‌ها باید در آن دانلود شود را انتخاب کنید
     fi = Valitse karttojen latauskohde.
     fr = Sélectionner l'emplacement où les cartes seront téléchargées
-    he = בחר הכתובת במחשבך לשמירת המפות שתוריד
+    he = בחר מיקום במחשבך לשמירת המפות שתוריד.
     hu = Válassza ki, hogy hova töltsük le a térképeket
     id = Pilih tempat untuk menyimpan unduhan peta
     it = Seleziona il luogo in cui le mappe devono essere scaricate
@@ -2308,7 +2311,7 @@
     fa = نقشه‌ها
     fi = Ladatut kartat
     fr = Cartes téléchargées
-    he = מפות
+    he = מפות שהורדו
     hu = Letöltött térképek
     id = Peta
     it = Mappe
@@ -2345,6 +2348,7 @@
     eu = Barne biltegiratze pribatua
     fi = Sisäinen yksityinen tallennustila
     fr = Stockage interne privé
+    he = אחסון פנימי פרטי
     hu = Belső privát tárhely
     lt = Vidinė privati saugykla
     nb = Intern privat lagring
@@ -2369,6 +2373,7 @@
     eu = Barne biltegiratze partekatua
     fi = Sisäinen jaettu tallennustila
     fr = Stockage interne partagé
+    he = אחסון פנימי משותף
     hu = Belső közös tárhely
     lt = Vidinė bendra saugykla
     nb = Intern delt lagring
@@ -2393,6 +2398,7 @@
     eu = SD txartela
     fi = SD-kortti
     fr = Carte SD
+    he = כרטיס זיכרון
     hu = SD-kártya
     lt = SD kortelė
     nb = SD-kort
@@ -2417,6 +2423,7 @@
     eu = Kanpoko biltegiratze partekatua
     fi = Ulkoinen jaettu tallennustila
     fr = Stockage externe partagé
+    he = אחסון חיצוני משותף
     hu = Külső közös tárhely
     lt = Išorinė bendra saugykla
     nb = Ekstern delt lagring
@@ -2441,6 +2448,7 @@
     eu = %2$@-tik %1$@ libre
     fi = %1$@/%2$@ vapaana
     fr = %1$@ libres sur %2$@
+    he = %1$@ פנוי מתוך %2$@
     hu = %1$@ szabad %2$@-ból
     lt = %1$@ laisva iš %2$@
     nb = %1$@ ledig av %2$@
@@ -2507,6 +2515,7 @@
     eu = Ezin izan dira mapak mugitu
     fi = Karttatiedostojen siirtovirhe
     fr = Erreur lors du déplacement des cartes
+    he = שגיאה בהעברת הקבצים
     hu = Hiba történt a térképfájlok áthelyezése közben
     lt = Klaida perkeliant žemėlapio failus
     nb = Kunne ikke flytte kart
@@ -2518,7 +2527,7 @@
     uk = Помилка переміщення файлів карти
 
   [wait_several_minutes]
-    comment = Ask to wait user several minutes (some long process in modal dialog).
+    comment = Ask user to wait several minutes (some long process in modal dialog).
     tags = android
     en = This can take several minutes.\nPlease wait…
     af = Dit kan etlike minute duur.\nWag asb.…
@@ -2668,6 +2677,7 @@
     fa = کجا غذا بخوریم
     fi = Missä syödä
     fr = Un endroit pour manger
+    he = איפה לאכול
     hu = Hol lehet enni valamit
     id = Tempat makan
     it = Dove mangiare
@@ -2711,6 +2721,7 @@
     fa = عطاری
     fi = Elintarvikkeet
     fr = Epiceries
+    he = מצרכים
     hu = Élelmiszerek
     id = Toserba
     it = Alimentari
@@ -2798,7 +2809,7 @@
     fa = سوخت
     fi = Huoltoasema
     fr = Stations-service
-    he = גז
+    he = דלק
     hu = Benzinkút
     id = Bahan bakar
     it = Benzinaio
@@ -2884,6 +2895,7 @@
     fa = خرید کردن
     fi = Ostokset
     fr = Shopping
+    he = קניות
     hu = Bevásárlás
     id = Berbelanja
     it = Negozi
@@ -2969,7 +2981,7 @@
     fa = هتل
     fi = Hotelli
     fr = Hôtel
-    he = מלון
+    he = בית מלון
     hu = Szálloda
     id = Hotel
     it = Albergo
@@ -3141,6 +3153,7 @@
     fa = تفریحات شبانه
     fi = Yöelämä
     fr = Vie nocturne
+    he = חיי לילה
     hu = Éjjeli élet
     id = Kehidupan Malam
     it = Vita notturna
@@ -3184,6 +3197,7 @@
     fa = تعطیلات خانوادگی
     fi = Vapaa-aikaa lasten kanssa
     fr = Vacances en famille
+    he = שעשועים
     hu = Családi kiruccanás
     id = Liburan keluarga
     it = Divertimento in famiglia
@@ -3528,6 +3542,7 @@
     fa = بازیافت
     fi = Jätteiden kierrätys
     fr = Recyclage
+    he = מיחזור
     hu = Újrahasznosítás
     id = Mendaur ulang
     it = Riciclo
@@ -3700,7 +3715,7 @@
     eu = Organic Maps markagailuak zurekin partekatu dira
     fi = Jaetut Organic Maps-kirjanmerkit
     fr = Signets Organic Maps partagés
-    he = משותפתOrganic Maps רשימת אתרי
+    he = סימניות של Organic Maps שותפו איתך
     hu = Egy Organic Maps könyvjelzőt osztottak meg Önnel
     id = Bagikan penanda Organic Maps
     it = Questi sono i miei luoghi preferiti
@@ -3736,6 +3751,7 @@
     et = Tere!\nManuses on minu järjehoidjad rakendusest Organic Maps. Palun ava need kui Sul on Organic Maps paigaldatud. Või kui ei ole, lae rakendus alla oma iOS või Android seadmesse, järgides seda linki: https:omaps.appget?kmz\n\nNaudi reisimist Organic Maps-iga!
     eu = Kaixo!\nNire markagailuak Organic Maps aplikazioan erantsi ditut. Mesedez, ireki itzazu Organic Maps instalatuta baduzu. Edo, ez baduzu, deskargatu aplikazioa zure iOS edo Android gailurako esteka hau jarraituz: https://omaps.app/get?kmz\n\nGozatu bidaiatzen Organic Maps-ekin!
     fr = Bonjour !\n\nVous trouverez ci-joint mes signets de l'appli Organic Maps. Veuillez les ouvrir si vous avez installé Organic Maps. Si vous ne l'avez pas, téléchargez l'application pour votre appareil iOS ou Android en suivant ce lien : https://omaps.app/get?kmz\n\nBon voyage avec Organic Maps!
+    he = שלום!\n\nמצורפים הסימניות שלי, אפשר לפתוח אותן ב-Organic Maps. אם אין לך את האפליקצייה, ניתן להוריד אותה כאן: https://omaps.app/get?kmz\n\nתהנ
     it = Ciao!\n\nIn allegato ci sono i miei luoghi preferiti. Aprili se hai installato Organic Maps. Oppure, se non ce l'hai, scarica l'app per iOS o Android seguendo questo link: https://omaps.app/\n\nDivertiti a viaggiare con Organic Maps!
     lt = Labas!\n\nČia prisegtas mano adresynas iš Organic Maps programėlės. Atidaryk jį, jei esi įdiegęs Organic Maps, arba atsisiųsk programėlę savo iOS arba Android įrenginyje su šią nuorodą: https://omaps.app/get?kmz\n\Mėgaukis keliavimu su Organic Maps!
     mr = नमस्कार!\n\nOrganic Maps ऍप मधील माझे खूणपत्रे संलग्न केले आहेत. तुम्ही Organic Maps इन्स्टॉल केले असल्यास हे खूणपत्रे उघडा. इन्स्टॉल केले नसल्यास, पुढील दुव्यावर जाऊन तुमच्या iOS किंवा अँड्रॉइड उपकरणावर हे डाउनलोड करा: https://omaps.app/get?kmz\n\nOrganic Maps सह प्रवासाचा आनंद घ्या!
