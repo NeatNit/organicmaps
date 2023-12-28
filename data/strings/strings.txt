@@ -1968,7 +1968,7 @@
     fa = نشانه‌ها و مسیر
     fi = Kirjanmerkit ja reitit
     fr = Signets et parcours
-    he = סימניות ונתיבים
+    he = סימניות ומסלולים
     hu = Könyvjelzők és nyomvonalak
     id = Penanda dan jalur
     it = Luoghi preferiti e percorsi
@@ -3751,7 +3751,7 @@
     et = Tere!\nManuses on minu järjehoidjad rakendusest Organic Maps. Palun ava need kui Sul on Organic Maps paigaldatud. Või kui ei ole, lae rakendus alla oma iOS või Android seadmesse, järgides seda linki: https:omaps.appget?kmz\n\nNaudi reisimist Organic Maps-iga!
     eu = Kaixo!\nNire markagailuak Organic Maps aplikazioan erantsi ditut. Mesedez, ireki itzazu Organic Maps instalatuta baduzu. Edo, ez baduzu, deskargatu aplikazioa zure iOS edo Android gailurako esteka hau jarraituz: https://omaps.app/get?kmz\n\nGozatu bidaiatzen Organic Maps-ekin!
     fr = Bonjour !\n\nVous trouverez ci-joint mes signets de l'appli Organic Maps. Veuillez les ouvrir si vous avez installé Organic Maps. Si vous ne l'avez pas, téléchargez l'application pour votre appareil iOS ou Android en suivant ce lien : https://omaps.app/get?kmz\n\nBon voyage avec Organic Maps!
-    he = שלום!\n\nמצורפים הסימניות שלי, אפשר לפתוח אותן ב-Organic Maps. אם אין לך את האפליקצייה, ניתן להוריד אותה כאן: https://omaps.app/get?kmz\n\nתהנ
+    he = שלום!\n\nמצורפות הסימניות שלי, אפשר לפתוח אותן ב-Organic Maps. אם צריך, ניתן להוריד את האפליקצייה מכאן: https://omaps.app/get?kmz\n\nתהנו לנווט עם Organic Maps!
     it = Ciao!\n\nIn allegato ci sono i miei luoghi preferiti. Aprili se hai installato Organic Maps. Oppure, se non ce l'hai, scarica l'app per iOS o Android seguendo questo link: https://omaps.app/\n\nDivertiti a viaggiare con Organic Maps!
     lt = Labas!\n\nČia prisegtas mano adresynas iš Organic Maps programėlės. Atidaryk jį, jei esi įdiegęs Organic Maps, arba atsisiųsk programėlę savo iOS arba Android įrenginyje su šią nuorodą: https://omaps.app/get?kmz\n\Mėgaukis keliavimu su Organic Maps!
     mr = नमस्कार!\n\nOrganic Maps ऍप मधील माझे खूणपत्रे संलग्न केले आहेत. तुम्ही Organic Maps इन्स्टॉल केले असल्यास हे खूणपत्रे उघडा. इन्स्टॉल केले नसल्यास, पुढील दुव्यावर जाऊन तुमच्या iOS किंवा अँड्रॉइड उपकरणावर हे डाउनलोड करा: https://omaps.app/get?kmz\n\nOrganic Maps सह प्रवासाचा आनंद घ्या!
@@ -3785,7 +3785,7 @@
     fa = در حال بارگیری نشانه‌ها
     fi = Ladataan kirjanmerkkejä
     fr = Chargement des signets
-    he = טוען רשימות אתרים
+    he = טוען סימניות
     hu = Könyvjelzők letöltése
     id = Memuat Penanda
     it = Caricamento luoghi preferiti
@@ -3828,7 +3828,7 @@
     fa = نشانه‌ها با موفقیت بارگذاری شد!شما می توانید آنها را در نقشه یا بخش مدیریت نشانه‌ها بیابید
     fi = Kirjanmerkkien lataaminen onnistui! Löydät ne joko kartalta tai kirjanmerkkien hallinnasta.
     fr = Les signets ont été chargés avec succès ! Vous pouvez les trouver sur la carte ou sur l'écran du Gestionnaire de signets.
-    he = רשימת האתרים הועלתה בהצלחה! תוכל למצוא אותה על המפה או במסך נהול רשימות האתרים.
+    he = הסימניות נטענו בהצלחה! ניתן למצוא אותם על המפה או במסך ניהול הסימניות.
     hu = Könyvjelzők letöltése sikeres! Megtalálja őket a térképen vagy a Könyvjelzők kezelése menüben.
     id = Penanda berhasil dimuat! Anda dapat menemukannya pada peta atau pada layar Pengelola Penanda Lokasi.
     it = Luoghi preferiti caricati con successo! Puoi trovarli sulla mappa o nella schermata "Gestione Luoghi preferiti".
@@ -3871,7 +3871,7 @@
     fa = بارگذاری نشانه‌ها با شکست مواجه شد.ممکن است فایل آسیب دیده یا معیوب باشد
     fi = Kirjanmerkkien lataus epäonnistui. Tiedosto saattaa olla vioittunut.
     fr = Échec lors du chargement des signets. Le fichier peut être corrompu ou défectueux.
-    he = טעינת רשימת האתרים נכשלה. יתכן שהקובץ פגום.
+    he = טעינת הסימניות נכשלה. יתכן שהקובץ פגום.
     hu = Könyvjelzők feltöltése sikertelen. A fájl sérült lehet.
     id = Gagal mengunggah penanda lokasi. Berkas mungkin rusak.
     it = Caricamento dei luoghi preferiti non riuscito. Il file potrebbe essere corrotto o difettoso.
@@ -4042,7 +4042,7 @@
     fa = دانلود نقشه اکنون در حال انجام است
     fi = Karttaa ladataan parhaillaan.
     fr = Le téléchargement de la carte est en cours.
-    he = הודת מפת המדינה מתבצעת כרגע.
+    he = הורדת מפת המדינה מתבצעת כעת.
     hu = Országletöltés folyamatban.
     id = Pengunduhan negara sedang berjalan.
     it = Il download della mappa è in corso.
@@ -4084,7 +4084,7 @@
     eu = Ikusi nire uneko kokapena Organic Maps-en! %1$@ edo %2$@ Ez al duzu lineaz kanpoko maparik? Deskargatu hemendik: https://omaps.app/get
     fi = Hei, katso sijaintini Organic Maps-sovelluksessa! %1$@ tai %2$@ Eikö sinulla ole vielä offline-karttoja? Lataa ne täältä: https://omaps.app/get
     fr = Hé, regardez ma position actuelle sur Organic Maps ! %1$@ ou %2$@. Les cartes hors ligne ne sont pas installées ? Les télécharger ici : https://omaps.app/get
-    he = קבלו את המיקום שלי ב-Organic Maps! %1$@ או %2$@ אין לך מפות בלי אינטרנט? להוריד כאן: https://omaps.app/get
+    he = קבלו את המיקום שלי ב-Organic Maps!\n%1$@ או %2$@\nאין לך מפות בלי אינטרנט? להוריד כאן: https://omaps.app/get
     hu = Nézd meg a Organic Maps helyzetemet! %1$@ vagy %2$@ A program letöltése: https://omaps.app/get
     id = Hei, lihat lokasiku saat ini di Organic Maps! %1$@ atau %2$@ belum memiliki peta offline? Unduh di sini: https://omaps.app/get
     it = Guarda la mia posizione in Organic Maps! %1$@ o %2$@ Non hai scaricato l'app? La puoi scaricare da qui: https://omaps.app/get
@@ -4126,7 +4126,7 @@
     eu = Begiratu nire markagailua Organic Maps mapan!
     fi = Hei, katso merkintäni Organic Maps-kartalla!
     fr = Hé, regardez mon signet sur la carte Organic Maps !
-    he = הי, בדוק את הסיכה שלי במפה של Organic Maps!
+    he = היי, בדוק את הסיכה שלי במפה של Organic Maps!
     hu = Nézze meg a Organic Maps jelzőmet
     id = Hei, lihat pinku di peta Organic Maps
     it = Puoi vedere il mio luogo preferito sulla mappa Organic Maps!
@@ -4210,7 +4210,7 @@
     eu = Kaixo:\n\nOrain hemen nago: %1$@. Egin klik esteka honetan %2$@ edo %3$@ honetan mapan ikusteko.\n\nEskerrik asko.
     fi = Hei,\n\nOlen nyt täällä: %1$@. Klikkaa linkkiä %2$@ tai %3$@ nähdäksesi paikan kartalla.\n\nKiitos.
     fr = Bonjour,\n\nJe suis actuellement ici : %1$@. Cliquez sur ce lien %2$@ ou sur celui-ci %3$@ pour voir l'endroit sur la carte.\n\nMerci.
-    he = הי, n\nI\ אני כאן: %1$@. הקש על הלינק %2$@ או על %3$@ כדי לראות את המקום על המפה. \n\n תודה.
+    he = היי,\n\nאני כאן: %1$@. הקש על הלינק %2$@ או על %3$@ כדי לראות את המקום על המפה.\n\nתודה.
     hu = Üdvözlöm!\n\nJelenleg itt vagyok: %1$@ Kattintson erre a hivatkozásra %2$@ vagy erre %3$@, hogy lássa a helyet a térképen.\n\nKöszönöm.
     id = Hai,\n\nSekarang saya ada di sini: %1$@. Klik tautan ini %2$@ atau yang ini %3$@ untuk melihat tempatnya di peta.\n\nTerima kasih.
     it = Ciao,\n\nSono qui adesso: %1$@. Clicca su questo link %2$@ oppure su questo %3$@ per vedere il posto sulla mappa.\n\nGrazie.
@@ -4253,7 +4253,7 @@
     fa = اشتراک گذاری
     fi = Jaa
     fr = Partager
-    he = הפץ
+    he = שיתוף
     hu = Megosztás
     id = Bagikan
     it = Condividi
@@ -4296,6 +4296,7 @@
     fa = ایمیل
     fi = Sähköposti
     fr = Email
+    he = אימייל
     hu = Email
     id = Surel
     it = E-mail
@@ -4338,7 +4339,7 @@
     fa = کپی در کلیپ‌برد: %@
     fi = Kopioitu leikepöydälle: %@
     fr = Copié dans le presse-papiers : %@
-    he = הועתקו לזכרון זמני %@
+    he = הועתק: %@
     hu = A vágólapra másolva: %@
     id = Telah Disalin ke Papan Klip: %@
     it = Copiato in appunti: %@
@@ -4555,7 +4556,7 @@
     fa = برای ادامه کار مطمئن اید؟
     fi = Oletko varma että haluat jatkaa?
     fr = Êtes-vous certain de vouloir continuer ?
-    he = האם הנך בטוח שרצונך להמשיך?
+    he = האם הנך בטוח שברצונך להמשיך?
     hu = Valóban folytatni akarja?
     id = Apakah Anda yakin ingin melanjutkan?
     it = Sei sicuro di voler continuare?
@@ -4598,7 +4599,7 @@
     fa = مسیر
     fi = Reitit
     fr = Parcours
-    he = נתיבים
+    he = מסלולים
     hu = Csoportok
     id = Jalur
     it = Percorsi
@@ -4683,7 +4684,7 @@
     fa = به اشتراک گذاری موقعیت مکانی من
     fi = Jaa sijaintini
     fr = Partager ma position
-    he = שתף את מקומי
+    he = שיתוף מיקום שלי
     hu = Helyzetem megosztása
     id = Bagikan Lokasi Saya
     it = Condividi la mia posizione
@@ -4724,6 +4725,7 @@
     fa = تنظیمات عمومی
     fi = Yleiset asetukset
     fr = Paramètres généraux
+    he = הגדרות כלליות
     it = Opzioni generali
     lt = Bendrieji nustatymai
     mr = सर्वसामान्य सेटिंग
@@ -4756,6 +4758,7 @@
     fa = اطلاعات
     fi = Tietoja
     fr = Information
+    he = מידע
     hu = Információk
     it = Informazioni
     lt = Informacija
@@ -4790,6 +4793,7 @@
     fa = مسیریابی
     fi = Navigointi
     fr = Navigation
+    he = ניווט
     hu = Navigáció
     id = Navigasi
     it = Navigazione
@@ -4916,6 +4920,7 @@
     fa = حالت شب
     fi = Yötila
     fr = Mode nuit
+    he = מצב לילה
     hu = Éjszakai üzemmód
     id = Mode Malam
     it = Modalità notturna
@@ -4957,6 +4962,7 @@
     fa = خاموش
     fi = Pois päältä
     fr = Désactivé
+    he = כבוי
     hu = Ki
     id = Tidak Aktif
     it = Spento
@@ -5000,6 +5006,7 @@
     fi = Päällä
     fr = Activé
     hu = Be
+    he = מופעל
     id = Aktif
     it = Acceso
     ja = オン
@@ -5042,6 +5049,7 @@
     fa = خودکار
     fi = Automaattinen
     fr = Automatique
+    he = אוטומטי
     hu = Automatikus
     id = Otomatis
     it = Automatico
@@ -5085,6 +5093,7 @@
     fa = نمای چشم انداز
     fi = Perspektiivinäkymä
     fr = Vue en perspective
+    he = פרספקטיבה
     hu = Perspektivikus nézet
     id = Pandangan perspektif
     it = Vista in prospettiva
@@ -5127,6 +5136,7 @@
     fa = ساختمان‌های سه بعدی
     fi = 3D-rakennukset
     fr = Bâtiments en 3D
+    he = מבנים בתלת-מימד
     hu = 3D-s épületek
     id = Bangunan 3D
     it = Edifici 3D
@@ -5169,7 +5179,7 @@
     fa = ساختمان های سه بعدی در حالت صرفه جویی در مصرف برق خاموش می شوند
     fi = 3D-rakennukset ovat poissa päältä virransäästötilassa
     fr = Les bâtiments 3D sont désactivés en mode d'économie d'énergie
-    he = מבנים תלת מימדיים כבויים במצב חיסכון בחשמל
+    he = הגדרת מבנים בתלת מימד מבוטלת במצב חיסכון בחשמל
     hu = A 3D épületek energiatakarékos módban ki vannak kapcsolva
     id = Bangunan 3D dimatikan dalam mode hemat daya
     it = Gli edifici 3D sono disattivati in modalità di risparmio energetico
@@ -5213,6 +5223,7 @@
     fa = دستور العمل صوتی
     fi = Ääniohjeistukset
     fr = Instructions vocales
+    he = הנחיות קוליות
     hu = Hangutasítások
     id = Petunjuk Suara
     it = Istruzioni vocali
@@ -5255,6 +5266,7 @@
     fa = زبان صوت
     fi = Äänen kieli
     fr = Langue vocale
+    he = שפת קול
     hu = A hangutasítások nyelve
     id = Bahasa Suara
     it = Lingua per la voce
@@ -5341,7 +5353,7 @@
     fa = اگر اکنون صدا را نمی شنوید، میزان صدا یا تنظیمات تبدیل متن به گفتار سیستم را بررسی کنید.
     fi = Tarkista äänenvoimakkuus tai järjestelmän tekstistä puheeksi -asetukset, jos ääni ei kuulu nyt.
     fr = Vérifie le volume ou les paramètres de synthèse vocale du système si tu n'entends pas la voix maintenant.
-    he = בדוק את עוצמת הקול או את הגדרות הטקסט לדיבור של המערכת אם אינך שומע את הקול כעת.
+    he = אם אינך שומע את הקול כעת, בדוק את עוצמת הקול או את הגדרות הטקסט לדיבור של המערכת.
     hi = यदि आपको अभी आवाज नहीं सुनाई देती है तो वॉल्यूम या सिस्टम टेक्स्ट-टू-स्पीच सेटिंग्स की जांच करें।
     hu = Ellenőrizze a hangerőt vagy a rendszer szöveg-beszéd beállításait, ha most nem hallja a hangot.
     id = Periksa pengaturan volume atau pengaturan teks-ke-ucapan sistem jika anda tidak mendengar suara sekarang.
@@ -5385,6 +5397,7 @@
     fa = موجود نیست
     fi = Ei saatavilla
     fr = Non disponible
+    he = לא זמין
     hu = Nem áll rendelkezésre
     id = Tidak Tersedia
     it = Non disponibile
@@ -5427,6 +5440,7 @@
     fa = بیشتر
     fi = Muu
     fr = Autre
+    he = אחר
     hu = Egyéb
     id = Lainnya
     it = Altro
@@ -5469,6 +5483,7 @@
     fa = مسیر اخیر
     fi = Viimeisin reitti
     fr = Parcours récent
+    he = מסלול אחרון
     hu = Legutolsó útvonal
     id = Jalur terkini
     it = Percorso recente
@@ -5510,6 +5525,7 @@
     fa = بزرگنمایی خودکار
     fi = Automaattinen zoomaus
     fr = Zoom automatique
+    he = זום אוטומטי
     hu = Automatikus nagyítás
     id = Perbesar otomatis
     it = Zoom automatico
@@ -5551,6 +5567,7 @@
     fa = خاموش
     fi = Pois päältä
     fr = Désactivé
+    he = כבוי
     hu = Kikapcsolva
     id = Nonaktif
     it = Spento
@@ -5592,6 +5609,7 @@
     fa = 1 ساعت
     fi = 1 tunti
     fr = 1 heure
+    he = 1 שעה
     hu = 1 óra
     id = 1 jam
     it = 1 ora
@@ -5633,6 +5651,7 @@
     fa = 2 ساعت
     fi = 2 tuntia
     fr = 2 heures
+    he = 2 שעות
     hu = 2 óra
     id = 2 jam
     it = 2 ore
@@ -5674,6 +5693,7 @@
     fa = 6 ساعت
     fi = 6 tuntia
     fr = 6 heures
+    he = 6 שעות
     hu = 6 óra
     id = 6 jam
     it = 6 ore
@@ -5715,6 +5735,7 @@
     fa = 12 ساعت
     fi = 12 tuntia
     fr = 12 heures
+    he = 12 שעות
     hu = 12 óra
     id = 12 jam
     it = 12 ore
@@ -5756,6 +5777,7 @@
     fa = 1 روز
     fi = 1 päivä
     fr = 1 jour
+    he = 1 יום
     hu = 1 nap
     id = 1 hari
     it = 1 giorno
@@ -5797,6 +5819,7 @@
     fa = با این قابلیت شما می توانید مسیری که می پیمایید را در یک دوره مشخص ضبط نماید و آن را بر روی نقشه ببینید.لطفا توجه نمایید:فعال سازی این قابلیت باعث افزایش مصرف باتری موبایل شما می شود.مسیر به طور خودکار بعد از مدت مشخص شده حذف خواهد شد
     fi = Toiminnon avulla voit tallentaa kuljetun reitin tietyltä ajalta ja nähdä sen kartalla: Huomautus: tämän toiminnon aktivoiminen lisää akun käyttöä. Reitti poistetaan kartalta automaattisesti ajanjakson päätyttyä.
     fr = Ceci vous permet d’enregistrer le chemin emprunté pendant un certain temps et de le voir sur la carte. Veuillez noter : l’activation de cette fonction entraîne une grande utilisation de la batterie. La route sera supprimée automatiquement de la carte lorsque l’intervalle de temps sera arrivé à expiration.
+    he = האפשרות הזו מאפשרת להקליט את המסלול שלך למשך זמן מסוים ולראות אותו במפה. שימו לב: הפעלת האפשרות הזו גורמת לגדילה בצריכת הסוללה. המסלול יימחק מהמפה לאחר הזמן שהוגדר.
     hu = Ez lehetővé teszi a bejárt útvonal rögzítését és megtekintését a térképen bizonyos időre. Kérjük, vegye figyelembe, hogy ezen funkció aktiválásával megnöveli az akkumulátor használatát. Az útvonal automatikusan törlődik a térképről az időtartam lejártával.
     id = Ini memungkinkan Anda untuk merekam jalur yang telah dilalui selama jangka waktu tertentu dan melihatnya pada peta. Harap ketahui: aktivasi fungsi ini menyebabkan peningkatan penggunaan baterai. Trek akan dihapus secara otomatis dari peta setelah selang waktu berakhir.
     it = Consente di registrare il percorso effettuato in un determinato periodo di tempo e di vederlo sulla mappa. Nota: l'attivazione di questa funzione incrementa l'uso della batteria. Il percorso viene rimosso automaticamente dalla mappa allo scadere dell'intervallo di tempo.
@@ -5879,7 +5902,7 @@
     fa = مشاهده بر روی نقشه
     fi = Näytä kartalla
     fr = Voir sur la carte
-    he = ראה במפה
+    he = הראה במפה
     hu = Megtekintés a térképen
     id = Tampilkan pada peta
     it = Visualizza sulla mappa
@@ -5914,6 +5937,7 @@
     eu = Menua
     fi = Menu
     fr = Menu
+    he = תפריט
     lt = Meniu
     nb = Meny
     pl = Menu
@@ -5939,6 +5963,7 @@
     fa = وب سایت
     fi = Kotisivut
     fr = Site internet
+    he = אתר
     hu = Honlap
     id = Situs Web
     it = Sito web
