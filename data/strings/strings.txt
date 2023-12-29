@@ -6109,6 +6109,7 @@
     fa = بازخورد
     fi = Palaute
     fr = Feedback
+    he = משוב
     hu = Visszajelzés
     id = Umpan balik
     it = Feedback
@@ -6411,7 +6412,7 @@
     fa = گزارش خطا
     fi = Ilmoita virheestä
     fr = Signaler un bug
-    he = דווחו על באג
+    he = דווח על באג
     hu = Hiba jelentése
     id = Laporkan gangguan
     it = Segnala un errore
@@ -6454,7 +6455,7 @@
     fa = کلاینت ایمیل شما پیکربندی نشده است.لطفا آن را پیکربندی کنید یا از طریق دیگر با ما تماس بگیرید %@
     fi = Sähköpostisovellusta ei ole asetettu. Ole hyvä ja määritä sähköpostiasetukset tai ota meihin yhteyttä toista kautta osoitteessa %@
     fr = Le client de courriel n'a pas été configuré. Veuillez le configurer ou nous contacter à %@
-    he = יישום הדוא"ל לא הוגדר. אנא קבעו את תצורתו או השתמשו בכל דרך אחרת על מנת ליצור עמנו קשר בכתובת %@
+    he = יישום הדוא"ל לא הוגדר. אנא הגדירו אותו או השתמשו בכל דרך אחרת על מנת ליצור עמנו קשר בכתובת %@
     hu = Az email kliens nincs beállítva. Kérjük, konfiguráld vagy próbálj meg valamilyen más módon kapcsolatba lépni velünk a %@ email címen keresztül.
     id = Surel pelanggan belum diatur. Mohon konfigurasikan atau gunakan cara lain untuk menghubungi kami di %@
     it = L'app per e-mail non è stata configurata. Si prega di configurarla o di usare altro metodo per contattarci all'indirizzo %@
@@ -6669,6 +6670,7 @@
     fa = آپدیت همه
     fi = Päivitä kaikki
     fr = Tout mettre à jour
+    he = עדכן הכל
     hu = Mindegyik frissítése
     id = Perbarui semua
     it = Aggiorna tutte
@@ -6754,6 +6756,7 @@
     fa = دانلود شده
     fi = Ladatut
     fr = Téléchargé
+    he = מפות שהורדת
     hu = Letöltve
     id = Diunduh
     it = Scaricate
@@ -6795,6 +6798,7 @@
     fa = موجود
     fi = Saatavilla
     fr = Disponible
+    he = מפות זמינות
     hu = Elérhető
     id = Tersedia
     it = Disponibile
@@ -6879,6 +6883,7 @@
     fa = نزدیک من
     fi = Lähelläni
     fr = Près de moi
+    he = קרוב אלי
     hu = A közelemben
     id = Dekat saya
     it = Vicino a me
@@ -6921,6 +6926,7 @@
     fa = نقشه‌ها
     fi = Kartat
     fr = Cartes
+    he = מפות
     hu = Térképek
     id = Peta
     it = Mappe
@@ -6962,6 +6968,7 @@
     fa = دانلود همه
     fi = Lataa kaikki
     fr = Tout télécharger
+    he = הורד הכל
     hu = Mindegyik letöltése
     id = Unduh semua
     it = Scarica tutte
@@ -7003,6 +7010,7 @@
     fa = درحال دانلود:
     fi = Ladataan:
     fr = Téléchargement en cours :
+    he = מוריד:
     hu = Letöltés:
     id = Mengunduh:
     it = In scaricamento:
@@ -7043,6 +7051,7 @@
     fa = یافت شد
     fi = Löytyi
     fr = Trouvé
+    he = נמצא
     hu = Megtalálva
     id = Ditemukan
     it = Trovate
@@ -7171,6 +7180,7 @@
     fa = برای حذف نقشه لطفا مسیر‌یابی را متوقف کنید
     fi = Pysäytä navigointi poistaaksesi kartan.
     fr = Veuillez arrêter la navigation pour supprimer la carte.
+    he = למחיקת המפה, יש לעצור את הניווט.
     hu = Kérjük, állítsa le a navigációt a térkép törléséhez.
     id = Untuk menghapus peta, silakan hentikan navigasi.
     it = Per eliminare una mappa interrompi la navigazione.
@@ -7299,6 +7309,7 @@
     fa = تلاش مجدد
     fi = Yritä uudelleen
     fr = Réessayer
+    he = נסה שוב
     hu = Ismétlés
     id = Ulangi
     it = Riprova
@@ -7518,6 +7529,7 @@
     fa = دانلود تمامی نقشه‌ها در طول مسیر‌تان
     fi = Lataa karttoja matkalla
     fr = Téléchargez toutes les cartes le long de votre itinéraire
+    he = הורד את כל המפות במסלול שלך
     hu = Tölts le térképeket az útvonal mellett
     id = Unduh peta bersama rute
     it = Scarica le mappe lungo il percorso
@@ -7560,6 +7572,7 @@
     fa = به منظور ایجاد مسیر ما نیاز داریم تا تمامی نقشه‌های شما از مبدا تا مقصد را بروزرسانی کنیم.
     fi = Reitin luominen vaatii karttojen lataamisen ja päivityksen oman sijaintisi ja kohteeen väliltä.
     fr = La création d'un itinéraire nécessite que toutes les cartes de votre localisation vers votre destination soient téléchargées et actualisées.
+    he = כדי ליצור מסלול, יש להוריד ולעדכן את כל המפות מהמיקום שלך ועד ליעד.
     hu = Útvonal tervezéséhez a kiindulási pont és a célútvonal összes térképét szükséges letölteni és frissíteni.
     id = Membuat rute memerlukan semua peta dari lokasi Anda ke tujuan yang diunduh dan diperbarui.
     it = Creare un percorso necessita la presenza di tutte le mappe scaricate e aggiornate dalla tua posizione alla destinazione.
@@ -7601,6 +7614,7 @@
     fa = فضای کافی موجود نیست
     fi = Ei tarpeeksi tilaa
     fr = Pas assez d'espace
+    he = אין מספיק מקום
     hu = Nincs elég hely
     id = Ruang simpan tidak cukup
     it = Spazio insufficiente
@@ -7686,6 +7700,7 @@
     fa = لطفا موقعیت مکانی(GPS)خود را فعال کنید.
     fi = Ota sijaintipalvelut käyttöön
     fr = Veuillez activer les services de localisation
+    he = יש להפעיל שירותי מיקום
     hu = Kérjük kapcsolja be a helyzetmeghatározó szolgáltatást
     id = Mohon aktifkan Layanan Lokasi
     it = Abilita i servizi di localizzazione
@@ -7727,6 +7742,7 @@
     fa = ذخیره
     fi = Tallenna
     fr = Sauvegarder
+    he = שמור
     hu = Mentés
     id = Simpan
     it = Salva
@@ -7768,6 +7784,7 @@
     fa = توضیحات شما (متن یا  (html
     fi = Kuvauksesi (teksti tai html)
     fr = Vos descriptions (version texte ou html)
+    he = התיאור שלך (טקסט או HTML)
     hu = Az ön leírásai (sima szöveg vagy html)
     id = Deskripsi Anda (teks atau html)
     it = Le tue descrizioni (testo o html)
@@ -7809,6 +7826,7 @@
     fa = ایجاد
     fi = luo
     fr = créer
+    he = יצירה
     hu = létrehoz
     id = buat
     it = crea
@@ -7852,6 +7870,7 @@
     fa = قرمز
     fi = Punainen
     fr = Rouge
+    he = אדום
     hu = Piros
     id = Đỏ
     it = Rosso
@@ -7895,6 +7914,7 @@
     fa = زرد
     fi = Keltainen
     fr = Jaune
+    he = צהוב
     hu = Citromsárga
     id = Vàng
     it = Giallo
@@ -7938,6 +7958,7 @@
     fa = آبی
     fi = Sininen
     fr = Bleu
+    he = כחול
     hu = Kék
     id = Xanh dương
     it = Blu
@@ -7981,6 +8002,7 @@
     fa = سبز
     fi = Vihreä
     fr = Vert
+    he = ירוק
     hu = Zöld
     id = Xanh lục
     it = Verde
@@ -8024,6 +8046,7 @@
     fa = بنفش
     fi = Violetti
     fr = Violet
+    he = סגול
     hu = Lila
     id = Tím
     it = Viola
@@ -8067,6 +8090,7 @@
     fa = نارنجی
     fi = Oranssi
     fr = Orange
+    he = כתום
     hu = Narancssárga
     id = Cam
     it = Arancione
@@ -8110,6 +8134,7 @@
     fa = قهوای
     fi = Ruskea
     fr = Marron
+    he = חום
     hu = Barna
     id = Nâu
     it = Marrone
@@ -8153,6 +8178,7 @@
     fa = صورتی
     fi = Pinkki
     fr = Rose
+    he = ורוד
     hu = Rózsaszín
     id = Hồng
     it = Rosa
@@ -8195,6 +8221,7 @@
     fa = ارغوانی سیر
     fi = Tumman purppuranpunainen
     fr = Pourpre foncé
+    he = סגול עמוק
     hu = Sötét lila
     id = Ungu Gelap
     it = Viola scuro
@@ -8238,6 +8265,7 @@
     fa = آبی کمرنگ
     fi = Vaaleansininen
     fr = Bleu ciel
+    he = כחול בהיר
     hu = Világoskék
     id = Biru Muda
     it = Azzurro
@@ -8410,6 +8438,7 @@
     fa = نارنجی سیر
     fi = Tumman oranssi
     fr = Orange foncé
+    he = כתום עמוק
     hu = Sötét Narancs
     id = Oranye Gelap
     it = Arancione scuro
@@ -8454,6 +8483,7 @@
     fa = خاکستری
     fi = Harmaa
     fr = Gris
+    he = אפור
     hu = Szürke
     id = Abu-abu
     it = Grigio
@@ -8498,6 +8528,7 @@
     fa = خاکستری کبود
     fi = Siniharmaa
     fr = Gris-bleu
+    he = כחול אפרפר
     hu = Kékes Szürke
     id = Biru Keabu-abuan
     it = Grigiazzurro
@@ -8711,6 +8742,7 @@
     fa = —در مسیرهایی که از مناطق مرزی میگذرد احتیاط کنید:مسیر‌هایی که بوسیله اپلیکیشن ما ایجاد می شود گاهی اوقات ممکن است مرز‌های کشور‌ها را رد کند که این در بعضی مناطق غیر مجاز است.
     fi = — Ole varovainen reittien suhteen raja-alueilla: sovelluksemme luomat reitit voivat toisinaan ylittää maiden rajoja luvattomissa paikoissa;
     fr = — Faites attention aux itinéraires traversant des zones frontalières : les itinéraires générés par l'application peuvent parfois franchir des frontières étatiques dans des zones interdites;
+    he = — יש להיות זהירים בשימוש במסלולים סביב גבולות: המסלולים המוצעים באפליקציה עשויים לחצות גבולות מדינה במקומות אסורים.
     hu = — A határmenti útvonalakon közlekedjen óvatosan: az alkalmazásunk által létrehozott útvonalak néha olyan helyeken szelhetik át az országhatárokat, amelyek nem engedélyezettek;
     id = — Berhati-hatilah dengan rute di zona perbatasan: rute yang dibuat oleh aplikasi kami terkadang mungkin saja melintasi batas negara di lokasi yang tidak sah;
     it = — Fai attenzione ai percorsi nelle zone di confine: i percorsi creati dalla nostra app possono, a volte, attraversare i confini di stato in zone non autorizzate;
@@ -8878,7 +8910,7 @@
     fa = لطفا سیگنال GPS موبایتان راچک کنید.و WiFi موبایلتان را جهت دقت بیشتر در موقعیت‌یابی فعال کنید.
     fi = Tarkista GPS-signaali. Wi-Fi-signaalin käyttöönotto parantaa sijainnin tarkkuutta.
     fr = Vérifiez le signal GPS. Activez le Wi-Fi pour améliorer la précision de votre localisation.
-    he = בדוק את אות ה-GPS שלך. הפעלת ה-Wi-Fi תשפר את הדיוק בזיהוי המיקום שלך.
+    he = בדוק את אות ה-GPS שלך. הפעלת Wi-Fi תשפר את הדיוק בזיהוי המיקום שלך.
     hu = Kérjük, ellenőrizze a GPS jelet. A Wi-Fi engedélyezése javítja a helyszín meghatározásának pontosságát.
     id = Mohon periksa sinyal GPS Anda. Mengaktifkan Wi-Fi akan meningkatkan akurasi lokasi Anda.
     it = Controlla il segnale GPS. Se abiliti il Wi-Fi, migliorerà la precisione della posizione.
@@ -9045,7 +9077,7 @@
     eu = Deskargatu eta eguneratu mapa eta ibilbideen informazio guztia aurreikusitako ibilbidearekin batera arrastoa kalkulatzeko.
     fi = Lataa ja päivitä kaikki suunnitellun reitin kartta- ja reititystiedot, jotta reitin voi laskea.
     fr = Téléchargez et mettez à jour les informations de carte et d'itinéraire de votre trajet pour calculer l'itinéraire.
-    he = הורד ועדכן את כל מידע המפות ויצירת המסלולים לאורך הנתיב הצפוי, כדי לחשב מסלול.
+    he = הורד ועדכן את כל המפות לאורך הדרך על מנת לחשב מסלול.
     hu = Útvonaltervezéshez töltse le és frissítse az összes térkép- és útvonal-információt a tervezett út mentén.
     id = Unduh dan perbarui semua informasi peta dan perutean di sepanjang proyeksi jalan untuk mengalkulasi rute.
     it = Per calcolare il percorso, scarica e aggiorna tutte le mappe e le informazioni di itinerario lungo la strada prevista.
@@ -9465,6 +9497,7 @@
     fa = ناتوان در تعیین نقطه میانی.
     fi = Välipisteen paikallistaminen ei onnistunut.
     fr = Impossible de localiser le point intermédiaire.
+    he = לא ניתן לאתר את נקודת הביניים.
     hu = Nem találja a köztes pontot.
     id = Tidak dapat menemukan titik antara.
     it = Impossibile individuare un punto intermedio.
@@ -9506,6 +9539,7 @@
     fa = لطفا نقطه میانی را تنظیم کنید.
     fi = Siirrä välipistettä.
     fr = Veuillez modifier votre point intermédiaire
+    he = כוונן את נקודת הביניים.
     hu = Kérjük, állítsa be köztes pontját.
     id = Harap sesuaikan titik antara Anda.
     it = Modifica il punto intermedio.
@@ -9758,7 +9792,7 @@
     fa = دانلود نقشه‌های اضافی برای ایجاد مسیری بهتر که حاشیه‌های این نقشه را رد می کند.
     fi = Lataa kartta ja luo parempi reitti, joka ylittää tämän kartan reunan.
     fr = Téléchargez des cartes pour créer un itinéraire plus direct sortant des limites de cette carte.
-    he = הורד את המפה כדי ליצור מסלול מיטבי יותר, החוצה את הגבול של מפה זו.
+    he = הורד מפות נוספות כדי ליצור מסלול יותר טוב שחוצה את גבולות המפה הזו.
     hu = Töltse le a térképet, hogy létrehozzon egy optimálisabb útvonalat, amely áthalad a jelenlegi térkép szélén.
     id = Unduh peta untuk membuat rute yang lebih optimal yang melewati ujung peta ini.
     it = Scarica altre mappe per creare un percorso migliore che attraversi i confini di questa mappa.
@@ -9802,7 +9836,7 @@
     fa = برای شروع جستجو و مسیر‌یابی لطفا نقشه رادانلود کنید بعد از آن دیگر نیازی به اتصال به اینترنت ندارید و برنامه کاملا آفلاین اجرا می شود.
     fi = Lataa kartta jotta voit käyttää hakua ja luoda reittejä. Tämän jälkeen et tarvitse enää Internet-yhteyttä.
     fr = Pour commencer à rechercher et à créer des itinéraires, veuillez télécharger la carte. Après cela, vous n'aurez plus besoin d'une connexion Internet.
-    he = על מנת להתחיל לחפש וליצור מסלולים, הורידו בבקשה את המפה ולא תזדקקו יותר לחיבור לאינטרנט.
+    he = על מנת להתחיל לחפש וליצור מסלולים, הורידו בבקשה את המפה. לאחר מכן לא תזדקקו יותר לחיבור לאינטרנט.
     hu = Útvonalak kereséséhez és létrehozásához, kérjük, töltsd le a térképet és többé nem lesz szükséged internetkapcsolatra.
     id = Untuk mulai mencari dan membuat rute, silakan unduh peta, dan Anda tidak akan membutuhkan koneksi internet lagi.
     it = Per iniziare a cercare e a creare i percorsi, scarica la mappa e non avrai più bisogno di una connessione a internet.
@@ -9844,7 +9878,7 @@
     fa = انتخاب نقشه
     fi = Valitse kartta
     fr = Sélectionner la carte
-    he = בחרו את המפה
+    he = בחר מפה
     hu = Jelöld ki a térképet
     id = Pilih Peta
     it = Seleziona mappa
@@ -9887,6 +9921,7 @@
     fa = نمایش
     fi = Näytä
     fr = Afficher
+    he = הצג
     hu = Mutat
     id = Tampilkan
     it = Mostra
@@ -9929,6 +9964,7 @@
     fa = مخفی کردن
     fi = Piilota
     fr = Masquer
+    he = הסתר
     hu = Elrejt
     id = Sembunyikan
     it = Nascondi
@@ -9971,6 +10007,7 @@
     fa = برنامه ریزی مسیر ناموفق
     fi = Reitin suunnittelu epäonnistui
     fr = La planification de l'itinéraire a échoué
+    he = תכנון המסלול נכשל
     hu = Sikertelen útvonaltervezés
     id = Sudah sampai di tujuan
     it = Pianificazione del percorso fallito
@@ -10013,6 +10050,7 @@
     fa = ورود به: %@
     fi = Saavut: %@
     fr = Arrivée: %@
+    he = שעת הגעה: %@
     hu = Megérkezik: %@
     id = Kedatangan: %@
     it = Arrivo a %@
