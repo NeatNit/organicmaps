@@ -18515,7 +18515,7 @@
     fa = ما از TTS سیستم برای دستورالعمل‌های صوتی استفاده می کنیم. بسیاری از دستگاه‌های Android از Google TTS استفاده می کنند، شما می توانید آن را از Google Play دانلود کنید (https://play.google.com/store/apps/details؟id=com.google.android.tts)
     fi = Käytämme ääniohjeisiin tekstistä puheeksi -järjestelmää. Monet Android-laitteet käyttävät Googlen tekstistä puheeksi -sovellusta, jonka voit ladata tai päivittää Google Playssä (https://play.google.com/store/apps/details?id=com.google.android.tts)
     fr = Nous utilisons le système TTS pour les instructions vocales. De nombreux appareils Android utilisent Google TTS, vous pouvez le télécharger ou le mettre à jour depuis Google Play (https://play.google.com/store/apps/details?id=com.google.android.tts)
-    he = אנחנו משתמשים מערכת TTS של המערכת כדי לספק הנחיות קוליות. הרבה מכשירי Android מוגדרים להשתמש ב-Google TTS, שניתן להוריד ולעדכן מחנות Play (https://play.google.com/store/apps/details?id=com.google.android.tts)
+    he = אנחנו משתמשים מערכת TTS של המערכת כדי לספק הנחיות קוליות. הרבה מכשירי Android מוגדרים להשתמש ב-Google TTS, שניתן להוריד ולעדכן מחנות Play (כאן: https://play.google.com/store/apps/details?id=com.google.android.tts)
     hu = TTS rendszert használunk a hangnavigációhoz. Sok Android-os készülék használja a Google TTS-t; töltse le vagy frissítse a Google Play áruházból (https://play.google.com/store/apps/details?id=com.google.android.tts)
     id = Kami menggunakan TTS sistem untuk petunjuk suara. Banyak perangkat Android menggunakan Google TTS, Anda dapat mengunduhnya dari Google Play (https://play.google.com/store/apps/details?id=com.google.android.tts)
     it = Usiamo il TTS di sistema per le istruzioni vocali. Molti dispositivi Android utilizzano Google TTS, che puoi scaricare o aggiornare da Google Play (https://play.google.com/store/apps/details?id=com.google.android.tts)
@@ -18599,6 +18599,7 @@
     fa = برای اطلاعات بیشتر لطفا این راهنما را بررسی کنید.
     fi = Lisätietoja saat tästä oppaasta.
     fr = Pour plus d’informations, veuillez consulter ce guide.
+    he = למידע נוסף ניתן לקרוא את המדריך הזה.
     hu = További tájékoztatást találhat még ebben az útmutatóban.
     id = Untuk informasi selengkapnya, bacalah panduan ini.
     it = Per maggiori informazioni, consulta questa guida.
@@ -18643,7 +18644,7 @@
     fi = Translitterointi latinalaisiksi aakkosiksi
     fr = Translittération en latin
     fr-CA = Translittération vers l'alphabet latin
-    he = תעתיק ללטינית
+    he = תעתיק לאותיות לטיניות
     hi = लैटिन में लिप्यंतरण
     hu = Átírás latin nyelvre
     id = Transliterasi ke dalam bahasa Latin
@@ -18687,6 +18688,7 @@
     fa = بیشتر بدانید
     fi = Lisätietoja
     fr = En savoir plus
+    he = למידע נוסף
     hu = Tudjon meg többet
     id = Pelajari selengkapnya
     it = Scopri di più
@@ -18730,6 +18732,7 @@
     fa = خروج
     fi = Poistu
     fr = Sortie
+    he = יציאה
     hu = Kilépés
     id = Keluar
     it = Uscita
@@ -18772,6 +18775,7 @@
     fa = یک نقطه شروع برای برنامه ریزی یک مسیر اضافه کنید
     fi = Lisää alkupiste reitin suunnittelua varten
     fr = Ajouter un point de départ pour planifier un itinéraire
+    he = יש להוסיף נקודת התחלה כדי לתכנן מסלול
     hu = Adjon hozzá kiindulási pontot az útvonal megtervezéséhez
     id = Tambahkan titik awal untuk merencanakan rute
     it = Aggiungi un punto di partenza per pianificare un percorso
@@ -18814,6 +18818,7 @@
     fa = یک مقصد برای برنامه ریزی یک مسیر اضافه کنید
     fi = Lisää määränpää reitin suunnittelua varten
     fr = Ajouter un point d'arrivée pour planifier un itinéraire
+    he = יש להוסיף יעד כדי לתכנן מסלול
     hu = Adjon hozzá végpontot az útvonal tervezéséhez
     id = Tambahkan titik akhir untuk merencanakan rute
     it = Aggiungi un punto di arrivo per pianificare un percorso
@@ -18856,6 +18861,7 @@
     fa = مدیریت مسیر
     fi = Hallitse reittiä
     fr = Gérer l’itinéraire
+    he = ניהול מסלול
     hu = Útvonal kezelése
     id = Kelola rute
     it = Gestisci percorso
@@ -18898,6 +18904,7 @@
     fa = برنامه
     fi = Suunnittele
     fr = Planifier
+    he = תכנון
     hu = Terv
     id = Rencana
     it = Pianifica
@@ -18940,6 +18947,7 @@
     fa = حذف
     fi = Poista
     fr = Supprimer
+    he = הסרה
     hu = Eltávolítja
     id = Hapus
     it = Rimuovi
@@ -18982,6 +18990,7 @@
     fa = برای حذف اینجا بکشید
     fi = Vedä tähän poistaaksesi
     fr = Faire glisser ici pour supprimer
+    he = גרור לכאן כדי להסיר
     hu = Húzza ide az eltávolításhoz
     id = Seret ke sini untuk menghapus
     it = Trascina qui per rimuovere
@@ -19024,6 +19033,7 @@
     fa = اضافه کردن توقف
     fi = Lisää pysähdys
     fr = Ajouter un arrêt
+    he = הוסף תחנה
     hu = Hozzáad megállót
     id = Tambah perhentian
     it = Aggiungi sosta
@@ -19107,6 +19117,7 @@
     fa = اوه، یک خطا وجود داشت سعی کنید دوباره وارد سیستم شوید
     fi = Tapahtui virhe. Yritä kirjautua sisään uudelleen.
     fr = Oups, une erreur s'est produite. Essayez de vous connecter à nouveau.
+    he = אופס, הייתה שגיאה. נסה להתחבר שנית.
     hu = Hoppá, volt egy hiba. Próbáljon meg újra bejelentkezni.
     id = Ah, tadi ada kesalahan. Coba masuk kembali.
     it = Si è verificato un errore. Prova a ripetere l'accesso più tardi.
@@ -19150,6 +19161,7 @@
     fa = مشکل دسترسی به ذخیره‌سازی
     fi = Ongelma tallennustilan käyttämisessä
     fr = Problème d'accès au stockage
+    he = בעיית גישה לאחסון
     hu = Tároló hozzáférési hiba
     id = Masalah akses penyimpanan
     it = Problema di accesso alla memoria
@@ -19193,6 +19205,7 @@
     fa = ذخیره سازی خارجی در دسترس نیست کارت SD ممکن است برداشته شده باشد، آسیب دیده باشد یا سیستم فایل فقط خواندنی باشد. لطفا کارت SD خود را بررسی کنید یا با ما در support@organicmaps.app تماس بگیرید
     fi = Ulkoinen tallennustila ei ole käytettävissä, SD-kortti on luultavasti poistettu tai vahingoittunut tai tiedostojärjestelmä on vain luku -tilassa. Tarkista tai ota yhteyttä osoitteeseen support@organicmaps.app
     fr = Le stockage externe n'est pas disponible. La carte SD a probablement été enlevée, endommagée ou le système est en lecture seule. Veuillez vérifier votre carte SD ou nous contacter via support@organicmaps.app
+    he = לא ניתן לגשת לאחסון החיצוני. ייתכן כי כרטיס הזיכרון הוסר, נפגם, או שמערכת הקבצים היא לקריאה בלבד. נא לבדוק את כרטיס הזיכרון או ליצור איתנו קשר בכתובת support@organicmaps.app
     hu = Külső tároló nem áll rendelkezésre, valószínűleg az SD-kártyát eltávolították vagy sérült, vagy rendszerfájl csak olvasható. Ellenőrizze, és lépjen kapcsolatba velünk a support@organicmaps.app címen
     id = Penyimpanan eksternal tidak tersedia, mungkin Kartu SD sudah dilepaskan, rusak, atau sistem berkasnya hanya dapat dibaca. Silakan periksa dan beri tahu kami di alamat support@ maps.me
     it = Archivio esterno non disponibile, probabilmente la scheda SD è stata rimossa, è danneggiata o il file system è di sola lettura. Controllala o contattaci su support@organicmaps.app
@@ -19236,6 +19249,7 @@
     fa = شبیه سازی ذخیره سازی بد
     fi = Jäljittele virheellistä tallennustilaa
     fr = Émuler le mauvais stockage
+    he = בצע אמולציה לאחסון רע
     hu = Sérült tároló emulálása
     id = Emulasi penyimpanan yang buruk
     it = Simula archivio danneggiato
@@ -19279,6 +19293,7 @@
     fa = ورودی
     fi = Sisäänkäynti
     fr = Entrée
+    he = כניסה
     hu = Bejárat
     id = Tempat masuk
     it = Ingresso
@@ -19322,6 +19337,7 @@
     fa = لطفا نام صحیح را وارد کنید
     fi = Anna oikea nimi
     fr = Veuillez entrer un nom correct
+    he = נא להזין שם תקין
     hu = Kérjük adja meg a helyes nevet
     id = Harap masukkan nama yang benar
     it = Inserisci un nome corretto
@@ -19365,6 +19381,7 @@
     fa = لیست‌ها
     fi = Luettelot
     fr = Listes
+    he = רשימות
     hu = Listák
     id = Daftar
     it = Elenchi
@@ -19409,6 +19426,7 @@
     fa = پنهان کردن همه
     fi = Piilota kaikki
     fr = Tout masquer
+    he = הסתר הכל
     hu = Összes elrejtése
     id = Sembunyikan semua
     it = Nascondi tutto
@@ -19452,6 +19470,7 @@
     fa = نمایش همه
     fi = Näytä kaikki
     fr = Tout afficher
+    he = הצג הכל
     hu = Összes megjelenítése
     id = Perlihatkan semua
     it = Mostra tutto
@@ -19501,6 +19520,8 @@
     fi:other = %d kirjanmerkkiä
     fr:one = %d signet
     fr:other = %d signets
+    he:one = %d סימניה
+    he:other = %d סימניות
     hu = könyvjelzők %d
     id = %d markah
     it:one = %d preferito
@@ -19552,6 +19573,7 @@
     fa = ایجاد لیست جدید
     fi = Luo uusi luettelo
     fr = Créer une nouvelle liste
+    he = צור רשימה חדשה
     hu = Új lista létrehozása
     id = Buat daftar baru
     it = Crea un nuovo elenco
@@ -19595,7 +19617,7 @@
     fa = وارد کردن نشانکu200cها و آهنگu200cها
     fi = Kirjanmerkkien ja reittien tuominen
     fr = Importer des signets et des parcours
-    he = ייבוא סימניות ורצועות
+    he = ייבוא סימניות ומסלולים
     hu = Könyvjelzők és sávok importálása
     id = Impor penanda dan trek
     it = Importazione di segnalibri e tracce
@@ -19638,6 +19660,7 @@
     fa = پنهان کردن صفحه
     fi = Piilota näyttö
     fr = Masquer l’écran
+    he = הסתר מסך
     hu = Képernyő elrejtése
     id = Sembunyikan Layar
     it = Nascondi schermata
@@ -19681,6 +19704,7 @@
     fa = %@ (%@ از %@)
     fi = %@ (%@ / %@)
     fr = %@ (%@ de %@)
+    he = %@ (%@ מתוך %@)
     hu = %@ (%@ / %@)
     id = %@ (%@ dari %@)
     it = %@ (%@ di %@)
@@ -19724,6 +19748,7 @@
     fa = در حال دانلود %@…
     fi = Ladataan %@…
     fr = Téléchargement de %@…
+    he = מוריד %@…
     hu = %@ letöltése…
     id = Mengunduh %@…
     it = Download di %@…
@@ -19767,6 +19792,7 @@
     fa = اعمال %@…
     fi = %@ otetaan käyttöön…
     fr = Application de %@…
+    he = מחיל %@…
     hu = %@ alkalmazása…
     id = Menerapkan %@…
     it = Applicazione di %@…
@@ -19810,6 +19836,7 @@
     fa = با توجه به خطای برنامه، امکان اشتراک گذاری وجود ندارد
     fi = Ei voitu jakaa sovellusvirheen vuoksi
     fr = Impossible de partager en raison d'une erreur d'application
+    he = לא ניתן לשתף עקב שגיאת אפליקציה
     hu = Nem lehet megosztani alkalmazáshiba miatt
     id = Tidak dapat berbagi karena kesalahan aplikasi
     it = Impossibile condividere a causa di un errore dell'applicazione
@@ -19853,6 +19880,7 @@
     fa = خطای اشتراک
     fi = Jakamisvirhe
     fr = Erreur de partage
+    he = שגיאת שיתוף
     hu = Megosztási hiba
     id = Kesalahan dalam membagikan
     it = Errore di condivisione
@@ -19896,6 +19924,7 @@
     fa = یک لیست خالی را نمی توان به اشتراک گذاشت
     fi = Tyhjää luetteloa ei voi jakaa
     fr = Impossible de partager une liste vide
+    he = אי אפשר לשתף רשימה ריקה
     hu = Üres lista nem osztható meg
     id = Tidak dapat membagikan daftar kosong
     it = Impossibile condividere un elenco vuoto
@@ -19939,6 +19968,7 @@
     fa = نام نمی‌تواند خالی باشد
     fi = Nimi ei voi olla tyhjä
     fr = Le nom ne peut pas être vide
+    he = השם לא יכול להיות ריק
     hu = A név nem lehet üres
     id = Namanya tidak boleh kosong
     it = Il nome non può essere vuoto
@@ -19982,6 +20012,7 @@
     fa = لطفا نام لیست را وارد کنید
     fi = Anna luettelon nimi
     fr = Veuillez entrer le nom de la liste
+    he = נא להזין את שם הרשימה
     hu = Adja meg a lista nevét
     id = Silakan masukkan nama daftar
     it = Inserire il nome dell'elenco
@@ -20025,6 +20056,7 @@
     fa = لیست جدید
     fi = Uusi luettelo
     fr = Nouvelle liste
+    he = רשימה חדשה
     hu = Új lista
     id = Daftar baru
     it = Nuovo elenco
