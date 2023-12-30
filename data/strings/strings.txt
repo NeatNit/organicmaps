@@ -4296,7 +4296,7 @@
     fa = ایمیل
     fi = Sähköposti
     fr = Email
-    he = אימייל
+    he = דוא"ל
     hu = Email
     id = Surel
     it = E-mail
@@ -17076,7 +17076,7 @@
     fa = ایمیل معتبری وارد نمایید
     fi = Syötä kelvollinen sähköpostiosoite
     fr = Saisissez un email valide
-    he = הזן אימייל תקין
+    he = הזן דוא"ל תקין
     hu = Adj meg egy érvényes email-címet
     id = Masukkan surel valid
     it = Inserisci un'e-mail valida
