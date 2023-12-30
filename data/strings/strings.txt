@@ -12053,6 +12053,7 @@
     eu = Bihar %@ean irekiko da
     fi = Aukeaa huomenna kello %@
     fr = Ouvre demain à %@
+    he = נפתח מחר ב-%@
     it = Apre domani alle %@
     lt = Atsidaro rytoj %@
     nb = Åpner i morgen klokka %@
@@ -12075,6 +12076,7 @@
     eu = %1$@ean %2$@etan irekiko da
     fi = Aukeaa %1$@ kello %2$@
     fr = Ouvre le %1$@ à %2$@
+    he = נפתח ביום %1$@ ב-%2$@
     it = Apre %1$@ alle %2$@
     lt = Atsidaro %1$@ %2$@
     nb = Åpner %1$@ klokka %2$@
@@ -12098,6 +12100,7 @@
     eu = %@etan irekiko da
     fi = Aukeaa kello %@
     fr = Ouvre à %@
+    he = נפתח מחר ב-%@
     it = Apre alle %@
     lt = Atsidaro %@
     nb = Åpner klokka %@
@@ -12121,6 +12124,7 @@
     eu = %@ barru irekiko da
     fi = Avautuu %@ kuluttua
     fr = Ouvert dans %@
+    he = נפתח עוד %@
     it = Apre tra %@
     lt = Atsidaro už %@
     nb = Åpner om %@
@@ -12144,6 +12148,7 @@
     eu = %@etan itxiko da
     fi = Sulkeutuu kello %@
     fr = Ferme à %@
+    he = נסגר ב-%@
     it = Chiude alle %@
     lt = Užsidaro %@
     nb = Stenger %@
@@ -12167,6 +12172,7 @@
     eu = %@ barru itxiko da
     fi = Sulkeutuu %@ kuluttua
     fr = Fermé dans %@
+    he = נסגר עוד %@
     it = Chiude tra %@
     lt = Užsidaro už %@
     nb = Stenger om %@
@@ -12195,6 +12201,7 @@
     fa = تعطیل
     fi = Suljettu
     fr = Fermé
+    he = סגור
     hu = Zárva
     id = Tutup
     it = Chiuso
@@ -12236,6 +12243,7 @@
     fa = اضافه کردن ساعت بازگشایی
     fi = Lisää aukioloajat
     fr = Ajouter les heures d'ouverture
+    he = הוספת שעות פעילות
     hu = Nyitvatartás hozzáadása
     id = Tambah jam kerja
     it = Aggiungi orari di apertura
@@ -12277,6 +12285,7 @@
     fa = ویرایش ساعت کاری
     fi = Muokkaa aukioloaikoja
     fr = Modifier les heures d'ouverture
+    he = עריכת שעות פעילות
     hu = Nyitvatartás szerkesztése
     id = Sunting jam kerja
     it = Modifica orari di apertura
@@ -12318,6 +12327,7 @@
     fa = آیا حساب OpenStreetMap ندارید؟
     fi = Eikö sinulla ole OpenStreetMap-tiliä?
     fr = Vous n'avez pas de compte sur OpenStreetMap ?
+    he = אין לך חשבון OpenStreetMap?
     hu = Nem rendelkezel még OpenStreetMap-felhasználói fiókkal?
     id = Tidak ada akun di OpenStreetMap?
     it = Non hai un account OpenStreetMap?
@@ -12359,6 +12369,7 @@
     fa = ثبت نام در OpenStreetMap
     fi = Rekisteröidy
     fr = S'inscrire sur OpenStreetMap
+    he = הירשם ב-OpenStreetMap
     hu = Regisztráció
     id = Mendaftar
     it = Iscriviti
@@ -12400,6 +12411,7 @@
     fa = رمز عبور (حداقل 8 عدد یا حرف)
     fi = Salasana (vähintään 8 merkkiä)
     fr = Mot de passe (8 caractères minimum)
+    he = סיסמה (לפחות 8 תווים)
     hu = Jelszó (legalább 8 karakter)
     id = Kata Sandi (minimal 8 karakter)
     it = Password (minimo 8 caratteri)
@@ -12441,6 +12453,7 @@
     fa = نام کاربری یا رمز عبور نامعتبر است.
     fi = Virheellinen käyttäjätunnus tai salasana.
     fr = Nom d'utilisateur ou mot de passe invalide.
+    he = שם משתמש או סיסמה לא תקינים.
     hu = Érvénytelen felhasználónév vagy jelszó.
     id = Nama pengguna dan Kata sandi tidak valid.
     it = Username o password non corretti.
@@ -12482,6 +12495,7 @@
     fa = ورود
     fi = Kirjaudu sisään
     fr = Connexion
+    he = כניסה ל-OpenStreetMap
     hu = Bejelentkezés
     id = Masuk
     it = Accedi
@@ -12564,6 +12578,7 @@
     fa = رمز عبور
     fi = Salasana
     fr = Mot de passe
+    he = סיסמה
     hu = Jelszó
     id = Kata sandi
     it = Password
@@ -12605,6 +12620,7 @@
     fa = رمز عبور خود را فراموش کردید؟
     fi = Unohtuiko salasana?
     fr = Mot de passe oublié ?
+    he = שכחת סיסמה?
     hu = Elfelejtett jelszó?
     id = Lupa kata sandi?
     it = Hai dimenticato la password?
@@ -12646,6 +12662,7 @@
     fa = حساب OSM
     fi = OSM-tili
     fr = Compte OSM
+    he = חשבון OSM
     hu = OSM-felhasználói fiók
     id = Akun OSM
     it = Account OSM
@@ -12687,6 +12704,7 @@
     fa = خروج از حساب
     fi = Kirjaudu ulos
     fr = Déconnexion
+    he = התנתק
     hu = Kijelentkezés
     id = Keluar
     it = Esci
@@ -12729,6 +12747,7 @@
     fa = اخرین بروزرسانی
     fi = Viimeisin lisäys
     fr = Dernier envoi
+    he = עדכון אחרון
     hu = Utolsó frissítés
     id = Pengunggahan terakhir
     it = Ultimo caricamento
@@ -12770,6 +12789,7 @@
     fa = متشکریم
     fi = Kiitos
     fr = Merci
+    he = תודה
     hu = Köszönjük
     id = Terima kasih
     it = Grazie
@@ -12811,6 +12831,7 @@
     fa = ویرایش مکان
     fi = Muokkaa kohdetta
     fr = Modifier le lieu
+    he = ערוך מקום
     hu = Hely szerkesztése
     id = Sunting tempat
     it = Modifica il luogo
@@ -12852,6 +12873,7 @@
     fa = نام مکان
     fi = Paikan nimi
     fr = Nom du lieu
+    he = שם המקום
     hu = Hely neve
     id = Nama tempat
     it = Nome del luogo
@@ -12893,6 +12915,7 @@
     fa = افزودن یک زبان
     fi = Lisää kieli
     fr = Ajouter une langue
+    he = הוסף שפה
     hu = Nyelv hozzáadása
     id = Tambahkan bahasa
     it = Aggiungi una lingua
@@ -12934,6 +12957,7 @@
     fa = خیابان
     fi = Katu
     fr = Rue
+    he = רחוב
     hu = Utca
     id = Jalan
     it = Via
@@ -12976,6 +13000,7 @@
     fa = شماره ساختمان
     fi = Talon numero
     fr = Numéro de la maison
+    he = מספר בית
     hu = Házszám
     id = Nomor rumah
     it = Numero civico
@@ -13017,6 +13042,7 @@
     fa = جزئیات
     fi = Lisätiedot
     fr = Détails
+    he = פרטים
     hu = Részletek
     id = Detail
     it = Dettagli
@@ -13059,6 +13085,7 @@
     fa = اضافه کردن خیابان
     fi = Lisää katu
     fr = Ajouter une rue
+    he = הוסף רחוב
     hu = Utca hozzáadása
     id = Tambahkan jalan
     it = Aggiungi una via
@@ -13101,6 +13128,7 @@
     fa = نام خیابان را وارد کنید
     fi = Lisää kadun nimi
     fr = Veuillez entrer un nom de rue
+    he = יש להזין שם רחוב
     it = Inserire il nome della via
     lt = Įveskite gatvės pavadinimą
     mr = कृपया रस्त्याचे नाव जोडा
@@ -13131,6 +13159,7 @@
     fa = انتخاب یک زبان
     fi = Valitse kieli
     fr = Choisir une langue
+    he = בחר שפה
     hu = Nyelv kiválasztása
     id = Pilih bahasa
     it = Scegli una lingua
@@ -13172,6 +13201,7 @@
     fa = انتخاب یک خیابان
     fi = Valitse katu
     fr = Choisir une rue
+    he = בחר רחוב
     hu = Utca kiválasztása
     id = Pilih jalan
     it = Scegli una via
@@ -13212,6 +13242,7 @@
     fa = کد پستی
     fi = Postinumero
     fr = Code postal
+    he = מיקוד
     hu = Irányítószám
     id = Kode Pos
     it = Codice postale
@@ -13253,6 +13284,7 @@
     fa = غذا‌خوری
     fi = Ruokalaji
     fr = Cuisine
+    he = סגנון בישול
     hu = Konyha
     id = Masakan
     it = Cucina
@@ -13294,6 +13326,7 @@
     fa = انتخاب غذاخوری
     fi = Valitse ruokalaji
     fr = Sélectionner une cuisine
+    he = בחר סיגנון בישול
     hu = Válassz Konyhát
     id = Pilih Masakan
     it = Seleziona la cucina
@@ -13336,6 +13369,7 @@
     fa = ایمیل یا نام کاربری
     fi = Sähköposti tai käyttäjätunnus
     fr = Email ou nom d'utilisateur
+    he = דוא"ל או שם משתמש
     hu = Email vagy felhasználónév
     id = Surel atau nama pengguna
     it = E-mail o nome utente
@@ -13377,6 +13411,7 @@
     fa = تلفن
     fi = Puhelinnumero
     fr = Numéro de téléphone
+    he = טלפון
     hu = Telefonszám
     id = Telepon
     it = Telefono
@@ -13412,6 +13447,7 @@
     eu = Gehitu telefonoa
     fi = Lisää puhelinnumero
     fr = Ajouter un numéro de téléphone
+    he = הוסף טלפון
     it = Aggiungi numero
     lt = Pridėti telefoną
     mr = फोन जोडा
@@ -13484,6 +13520,7 @@
     fa = لطفا توجه داشته باشد
     fi = Huomaathan, että
     fr = À noter
+    he = לתשומת לבך
     hu = Megjegyzés
     id = Harap diperhatikan
     it = Avviso
@@ -13525,6 +13562,7 @@
     fa = تمام ویرایش‌های که بر روی نقشه انجام داده اید به همراه نقشه حذف شد.
     fi = Kaikki karttaan tehdyt muutokset poistetaan kartan mukana.
     fr = Toutes vos modifications de la carte seront supprimées avec elle.
+    he = כל העריכות שלך במפה יימחקו יחד עם המפה.
     hu = A térképekkel együtt minden rajtuk végzett módosítás is törlésre kerül.
     id = Semua perubahan peta akan dihapus bersama dengan peta.
     it = Tutte le tue modifiche alla mappa saranno cancellate insieme alla mappa.
@@ -13566,6 +13604,7 @@
     fa = بروزرسانی نقشه‌ها
     fi = Päivitä kartat
     fr = Mettre à jour les cartes
+    he = עדכן מפות
     hu = Térképek frissítése
     id = Perbarui peta
     it = Aggiorna mappe
@@ -13607,6 +13646,7 @@
     fa = برای ایجاد مسیر شما نیازمند بروزرسانی تمامی  نقشه‌ها هستید سپس می توانید دوباره مسیرتان را برنامه ریزی کنید
     fi = Sinun täytyy päivittää kaikki kartat ja suunnitella reitti uudelleen luodaksesi uuden reitin.
     fr = Pour créer un itinéraire, vous devez mettre à jour toutes les cartes puis reprogrammer l'itinéraire.
+    he = ליצירת מסלול, יש לעדכן את כל המפות ולתכנן מסלול שנית.
     hu = Útvonal létrehozásához frissítsd az összes térképet, majd tervezd meg újra az útvonalat.
     id = Untuk membuat rute, Anda perlu memperbarui semua peta dan kemudian merencanakan rute tersebut lagi.
     it = Per creare un percorso, devi aggiornare tutte le mappe e pianificare nuovamente il percorso.
@@ -13648,6 +13688,7 @@
     fa = یافتن نقشه
     fi = Etsi kartta
     fr = Trouver la carte
+    he = חפש מפה
     hu = Térkép keresése
     id = Temukan peta
     it = Trova la mappa
@@ -13689,6 +13730,7 @@
     fa = خطا در دانلود
     fi = Latausvirhe
     fr = Erreur de téléchargement
+    he = שגיאת הורדה
     hu = Letöltési hiba
     id = Unduh kesalahan
     it = Errore download
@@ -13730,6 +13772,7 @@
     fa = لطفا تنظیمات خود را بازبینی کنید و مطمئن شوید که ابزار شما به اینترنت متصل است.
     fi = Varmista, että laitteesi on yhteydessä Internetiin.
     fr = Veuillez vérifier vos paramètres et vous assurer que votre appareil est bien connecté à Internet.
+    he = נא לוודא כי המכשיר מחובר לאינטרנט.
     hu = Kérjük, ellenőrizd a beállításaid és győződj meg arról, hogy a készüléked kapcsolódik az internethez.
     id = Harap memeriksa pengaturan Anda dan pastikan perangkat Anda terhubung dengan internet.
     it = Verifica le tue impostazioni e assicurarti che il tuo dispositivo sia connesso a internet.
@@ -13771,6 +13814,7 @@
     fa = فظای کافی موجود نیست
     fi = Ei tarpeeksi tilaa
     fr = Espace insuffisant
+    he = אין מספיק מקום
     hu = Nincs elegendő tárhely
     id = Tidak cukup ruang
     it = Spazio insufficiente
@@ -13812,6 +13856,7 @@
     fa = لطفا داده‌های غیر ضروری را از دستگاه خود حذف کنید
     fi = Poista tarpeeton data
     fr = Veuillez supprimer les données inutiles
+    he = נא לפנות שטח אחסון
     hu = Kérjük, töröld a szükségtelen adatokat
     id = Harap menghapus data yang tidak diperlukan
     it = Si prega di rimuovere i dati non necessari
@@ -13853,6 +13898,7 @@
     fa = خطای ورود
     fi = Kirjautumisvirhe.
     fr = Erreur de connexion.
+    he = שגיאת התחברות.
     hu = Bejelentkezési hiba.
     id = Kesalahan masuk.
     it = Errore accesso.
@@ -13894,6 +13940,7 @@
     fa = تغییرات تایید شد
     fi = Vahvistetut karttamuutokset
     fr = Modifications vérifiées
+    he = שינויים מאומתים
     hu = Jóváhagyott változtatások
     id = Perubahan Terverifikasi
     it = Modifiche approvate
@@ -13935,6 +13982,7 @@
     fa = برای انتخاب مکان صحیح شئی نقشه را بکشید.
     fi = Vedä karttaa valitaksesi kohteelle oikean sijainnin.
     fr = Faite glisser la carte pour sélectionner la bonne position de l'objet.
+    he = גרור את המפה כדי לבחור את המיקום הנכון לפריט.
     hu = Húzd a térképet a megfelelő helyre az objektum helyes helyszínének kiválasztásához.
     id = Tarik peta untuk memilih lokasi yang benar dari obyek.
     it = Sposta la mappa per selezionare l’esatta posizione dell’oggetto.
@@ -13976,6 +14024,7 @@
     fa = انتخاب دسته بندی
     fi = Valitse kategoria
     fr = Sélectionner une catégorie
+    he = בחר קטגוריה
     hu = Válassz kategóriát
     id = Pilih kategori
     it = Seleziona categoria
@@ -14017,6 +14066,7 @@
     fa = پرطرفدار
     fi = Suositut
     fr = Populaire
+    he = פופולארי
     hu = Népszerűek
     id = Populer
     it = Popolare
@@ -14058,6 +14108,7 @@
     fa = همه دسته‌بندی‌ها
     fi = Kaikki kategoriat
     fr = Toutes les catégories
+    he = כל הקטגוריות
     hu = Minden kategória
     id = Semua kategori
     it = Tutte le categorie
@@ -14099,6 +14150,7 @@
     fa = درحال ویرایش
     fi = Muokkaus
     fr = Modification
+    he = עריכת מקום
     hu = Szerkesztés
     id = Mengedit
     it = Modifica
@@ -14140,6 +14192,7 @@
     fa = درحال افزودن
     fi = Lisääminen
     fr = Ajout
+    he = הוספת מקום
     hu = Hozzáadás
     id = Menambahkan
     it = Aggiungi
@@ -14181,6 +14234,7 @@
     fa = نام مکان
     fi = Paikan nimi
     fr = Nom du lieu
+    he = שם המקום
     hu = Hely neve
     id = Nama tempat
     it = Nome del luogo
@@ -14222,6 +14276,7 @@
     fa = دسته بندی
     fi = Kategoria
     fr = Catégorie
+    he = קטגוריה
     hu = Kategória
     id = Kategori
     it = Categoria
@@ -14263,6 +14318,7 @@
     fa = توضیح مفصل در مورد مشکل
     fi = Ongelman tarkka kuvaus
     fr = Description détaillée du problème
+    he = תאור מפורט של הבעיה
     hu = A probléma részletes leírása
     id = Gambaran terperinci tentang masalah
     it = Descrizione dettagliata del problema
@@ -14304,6 +14360,7 @@
     fa = مشکلی دیگر
     fi = Eri ongelma
     fr = Autre problème
+    he = בעיה אחרת
     hu = Különböző problémaDifferent problem
     id = Masalah yang berbeda
     it = Un problema diverso
@@ -14345,6 +14402,7 @@
     fa = اضافه کردن یک تجارت
     fi = Lisää organisaatio
     fr = Ajouter une entreprise
+    he = הוסף בית עסק
     hu = Szervezet hozzáadása
     id = Tambahkan organisasi
     it = Aggiungi attività
@@ -14386,6 +14444,7 @@
     fa = اضافه کردن مکان به نقشه و ویرایش آن مستقیما از طریق این اپلیکیشن.
     fi = Lisää karttaan uusia paikkoja ja muokkaa sovelluksessa olevia karttoja suoraan sovelluksessa.
     fr = Ajoutez de nouveaux lieux sur la carte et modifiez les lieux existants directement depuis l'appli.
+    he = הוספת מקומות חדשים למפה, ועריכת מקומות קיימים ישירות מהאפליקציה.
     hu = Adj hozzá új helyeket a térképhez, és szerkeszd a meglévőket közvetlenül az alkalmazásból.
     id = Tambahkan tempat-tempat baru di peta, dan edit peta-peta yang ada langsung dari aplikasi.
     it = Aggiungi nuovi luoghi sulla mappa e modifica quelli esistenti direttamente dall'app.
@@ -14427,6 +14486,7 @@
     fa = تغییر موقعیت
     fi = Vaihda sijaintia
     fr = Modifier l'emplacement
+    he = שנה מיקום
     hu = Helyszín megváltoztatása
     id = Ubah lokasi
     it = Cambia posizione
@@ -14468,6 +14528,7 @@
     fa = نمی توان شی ای در این مکان باشد
     fi = Kohdetta ei voida asettaa tänne
     fr = Aucun objet ne peut être localisé ici
+    he = לא ניתן למקם כאן פריט
     hu = Célpont áthelyezése ide nem lehetséges
     id = Objek tidak dapat diletakkan di sini
     it = Nessun oggetto può essere posizionato qui
@@ -14508,7 +14569,7 @@
     fa = داده های نقشه برداری از OpenStreetMap از %@. این مانند ویکی پدیا است که می توانید مکانهایی را برای همه کاربران در سراسر جهان اضافه یا ویرایش کنید.
     fi = Kartografiset tiedot OpenStreetMapista vuodesta %@. Se on kuin Wikipedia, johon voit lisätä tai muokata paikkoja kaikille käyttäjille ympäri maailmaa.
     fr = Données cartographiques provenant d'OpenStreetMap en date du %@. OSM est comme Wikipedia pour les cartes, où vous pouvez ajouter ou modifier des lieux.
-    he = נתונים קרטוגרפיים מ- OpenStreetMap נכון לשנת %@. זה כמו Wikipedia בו תוכלו להוסיף או לערוך מקומות לכל המשתמשים ברחבי העולם.
+    he = נתונים קרטוגרפיים מ-OpenStreetMap נכון לתאריך %@. OSM זה כמו ויקיפדיה למפות, בו תוכלו להוסיף או לערוך מקומות לכל המשתמשים ברחבי העולם.
     hu = Kartográfiai adatok az OpenStreetMap-ból a %@-től. Olyan, mint a Wikipedia, ahol a világ minden felhasználójának helyét hozzáadhatja vagy szerkesztheti.
     id = Data kartografi dari OpenStreetMap pada %@. Ini seperti Wikipedia di mana Anda dapat menambahkan atau mengedit tempat untuk semua pengguna di seluruh dunia.
     it = Dati cartografici da OpenStreetMap a partire dal %@. È come Wikipedia dove è possibile aggiungere o modificare luoghi per tutti gli utenti del mondo.
@@ -14550,6 +14611,7 @@
     fa = وارد شوید تا دیگر کاربران نیز بتوانند تغییرات ایجاد شده توسط شما را ببینند
     fi = Kirjaudu sisään jotta muut käyttäjät voivat nähdä tekemäsi muokkaukset.
     fr = Connectez vous à votre compte openstreetmap.org pour que d'autres utilisateurs puissent voir vos changements.
+    he = התחברו ל-openstreetmap.org כדי לפרסם את השינויים שלכם לעולם.
     hu = Jelentkezz be, hogy más felhasználók is láthassák a változtatásaidat.
     id = Masuk agar pengguna lain dapat melihat perubahan yang Anda buat.
     it = Accedi per consentire ad altri utenti di vedere le modifiche apportate.
@@ -14592,6 +14654,7 @@
     fa = برای دانلود، شما نیازمند فضای ذخیره سازی بیشتری هستید.لطفا داده‌های غیر ضروری خود را حذف کنید.
     fi = Tarvitset lisää tilaa ladataksesi. Poista tarpeeton data.
     fr = Pour télécharger, vous avez besoin de plus d'espace. Veuillez supprimer les données non nécessaires.
+    he = כדי להוריד, צריך עוד מקום. נא למחוק מידע שאינו הכרחי.
     hu = A letöltéshez több szabad tárhelyre van szükség. Kérjük, töröld a szükségtelen adatokat.
     id = Untuk mengunduh, Anda perlu ruang lebih banyak. Harap menghapus data yang tidak diperlukan.
     it = Per scaricare, hai bisogno di più spazio. Sei pregato di eliminare i dati non necessari.
@@ -14633,6 +14696,7 @@
     fa = من نقشه‌های Organic Maps را بهبود بخشیدم
     fi = Paransin Organic Maps-karttoja
     fr = J'ai amélioré les cartes de Organic Maps
+    he = אני משפר את המפות של Organic Maps
     hu = Én fejlesztettem a Organic Maps térképeket
     id = Saya meningkatkan peta Organic Maps
     it = Ho migliorato le mappe Organic Maps
@@ -14675,6 +14739,7 @@
     fa = %1$d  از  %2$d
     fi = %1$d/%2$d
     fr = %1$d de %2$d
+    he = %1$d מתוך %2$d
     hu = %1$d/%2$d
     id = %1$d dari %2$d
     it = %1$d di %2$d
@@ -14716,6 +14781,7 @@
     fa = دانلود بر روی یک شبکه دیتای موبایل؟
     fi = Lataa käyttämällä puhelinverkkoyhteyttä?
     fr = Téléchargement avec une connexion réseau cellulaire ?
+    he = להוריד באמצעות חיבור אינטרנט סלולרי?
     hu = Letöltés mobilhálózati kapcsolat segítségével?
     id = Unduh dengan menggunakan koneksi jaringan seluler?
     it = Vuoi scaricare utilizzando una connessione di rete cellulare?
@@ -14757,6 +14823,7 @@
     fa = این کار می تواند برای شما در بعضی طرح‌ها و یا حالت رومینگ هزینه اضافی در بر داشته باشد.
     fi = Tämä vaihtoehto saattaa olla huomattavasti kalliimpi tietyillä sopimuksilla tai roaming-yhteydellä.
     fr = Cela pourrait être très cher avec certains abonnements ou si vous êtes en déplacement.
+    he = זה עשוי להיות יקר עם חבילות גלישה מסוימות או בנדידה.
     hu = Ez jelentősen drága lehet némely előfizetés vagy roaming keretein belül.
     id = Ini bisa menjadi jauh mahal pada beberapa paket atau jika roaming.
     it = Quest'operazione potrebbe essere piuttosto costosa con alcuni piani o in roaming.
@@ -14798,6 +14865,7 @@
     fa = وارد کردن شماره ساختمان معتبر
     fi = Syötä oikea talon numero
     fr = Saisir un numéro de maison correct
+    he = הזן מספר בית תקין
     hu = Helyes házszámot adjon meg
     id = Masukkan nomor rumah yang benar
     it = Inserisci numero civico corretto
@@ -14839,6 +14907,7 @@
     fa = تعداد طبقات ( حداکثر %d )
     fi = Kerrosten määrä (maks. %d)
     fr = Nombre d'étages (max %d)
+    he = מספר קומות (מקסימום: %d)
     hu = Az emeletek száma (legfeljebb %d)
     id = Jumlah lantai (maksimum %d)
     it = Numero di piani (massimo %d)
@@ -14881,6 +14950,7 @@
     fa = تعداد طبقات نباید بیش از %d باشد
     fi = Kerrosten määrä saa olla korkeintaan %d
     fr = Le nombre d'étages ne doit pas dépasser %d
+    he = מספר הקומות לא יכול להיות גבוה מ-%d
     hu = Ez az épület legfeljebb %d emeletes lehet
     id = Edit bangunan dengan maksimum %d lantai
     it = Il numero di piani non deve superare %d
@@ -14923,6 +14993,7 @@
     fa = کدپستی
     fi = Postinumero
     fr = Code postal
+    he = מיקוד
     hu = Irányítószám
     id = Kode Pos
     it = Codice postale
@@ -14966,6 +15037,7 @@
     fi = Anna kelvollinen postinumero
     fr = Entrer un code postal correct
     hu = Írja be a helyes irányítószámot
+    he = יש להזין מיקוד תקין
     id = Masukkan Kode Pos yang benar
     it = Inserire il codice postale corretto
     ja = 正しい郵便番号を入力してください
@@ -15007,6 +15079,7 @@
     fa = مکان ناشناس
     fi = Tuntematon paikka
     fr = Lieu inconnu
+    he = מיקום לא ידוע
     hu = Ismeretlen hely
     id = Tempat Tidak Dikenal
     it = Luogo sconosciuto
@@ -15049,6 +15122,7 @@
     fa = ارسال یادداشت به ویرایش‌کنندگان OSM
     fi = Lähetä muistilappu OSM-toimittajille
     fr = Informer les contributeurs OSM
+    he = שלח הערה לעורכי OSM
     hu = Küldjön jegyzetet az OSM editornak
     id = Kirim catatan ke editor OSM
     it = Invia un messaggio a OSM
@@ -15091,6 +15165,7 @@
     fa = اظهار نظر بیشتر
     fi = Yksityiskohtainen kommentti
     fr = Commentaire détaillé
+    he = הערה מפורטת
     hu = Részletes megjegyzés
     id = Komentar mendetail
     it = Commento dettagliato
@@ -15132,6 +15207,7 @@
     fa = شما یک سری تغییرات در نقشه را برای انجمن OpenStreetMap ارسال کردید.جزئیات اضافی را که نتوانستید در Organic Maps ویرایش کنید را برایشان بنویسید.
     fi = Ehdottamasi muutokset lähetetään OpenStreetMap-yhteisöön. Kuvaa tiedot, joita ei voi muokata Organic Maps:ssä.
     fr = Vos modifications suggérées seront envoyées à la communauté OpenStreetMap. Décrivez les détails qui ne peuvent pas être modifiés dans Organic Maps.
+    he = ההצעות שלך לשינוי המפה יישלחו לקהילת OpenStreetMap. יש לתאר פרטים נוספים שלא ניתן לערוך ב-Organic Maps.
     hu = Javasolt változtatásait elküldjük az OpenStreetMap közösségnek. Írja le a további információkat, amelyek nem szerkeszthetők a Organic Maps-ben.
     id = Saran perubahan Anda akan dikirimkan ke komunitas OpenStreetMap. Jelaskan detail yang tidak dapat diedit di Organic Maps.
     it = Le modifiche alla mappa da te suggerite saranno inviate alla comunità di OpenStreetMap. Descrivi qualsiasi dettaglio aggiuntivo che non può essere modificato in Organic Maps.
@@ -15173,6 +15249,7 @@
     fa = در مورد OpenStreetMap بیشتر بدانید
     fi = Lisätietoja OpenStreetMap:sta
     fr = En savoir plus sur OpenStreetMap
+    he = עוד על OpenStreetMap
     hu = További részletek az OpenStreetMap-ról
     id = Selengkapnya tentang OpenStreetMap
     it = Informazioni su OpenStreetMap
@@ -15214,6 +15291,7 @@
     fa = مالک
     fi = Operaattori
     fr = Opérateur
+    he = בעלים
     hu = Üzemeltető
     id = Pemilik
     it = Proprietario
@@ -15255,6 +15333,7 @@
     fa = شما هیچ نقشه دانلود شده ای ندارید
     fi = Et ole ladannut yhtään karttaa
     fr = Vous n'avez téléchargé aucune carte
+    he = לא הורדת אף מפה
     hu = Még nem töltött le térképet
     id = Tidak ada peta apa pun yang diunduh
     it = Non hai scaricato mappe
@@ -15296,6 +15375,7 @@
     fa = برای جست وجو یک مکان و استفاده از قابلیت ناوبری، نقشه‌ها را دانلود کنید.
     fi = Lataa karttoja löytääksesi paikkoja ja navigoidaksesi offline-tilassa.
     fr = Téléchargez des cartes pour rechercher un lieu et utiliser la navigation hors ligne
+    he = הורד מפה כדי לחפש ולנווט ללא חיבור לאינטרנט.
     hu = Töltse le a szükséges térképeket, hogy megtalálja a helyet és internet nélkül is navigálhasson.
     id = Unduh peta untuk menemukan lokasi dan bernavigasi secara offline.
     it = Scarica mappe per trovare un luogo e navigare offline.
@@ -15338,6 +15418,7 @@
     fa = آیا یافتن مکان‌تان را ادامه می دهید؟
     fi = Jatketaanko sijaintisi havaitsemista?
     fr = Continuer la détection de votre emplacement actuel ?
+    he = להמשיך לאתר את המיקום שלך?
     hu = Folytatja tartózkodási helyének keresését?
     id = Terus mendeteksi lokasi Anda saat ini?
     it = Continuare a rilevare la tua posizione attuale?
@@ -15380,6 +15461,7 @@
     fa = مکان شما ناشناس مانده است.ممکن است شما داخل یک ساختمان یا تونل باشید.
     fi = Nykyistä sijaintiasi ei voitu määrittää. Kenties olet rakennuksessa tai tunnelissa.
     fr = L'emplacement actuel est inconnu. Vous êtes peut-être dans un bâtiment ou dans un tunnel.
+    he = לא ניתן לזהות את המיקום הנוכחי שלך. ייתכן שאתה בתוך מבנה או במנהרה. האם להמשיך לנסות לאתר את המיקום שלך?
     hu = Tartózkodási helye ismeretlen. Lehet, hogy épületben vagy alagútban tartózkodik.
     id = Lokasi saat ini tidak diketahui. Anda mungkin berada dalam bangunan atau terowongan.
     it = La posizione attuale è sconosciuta. È possibile che ci si trovi all'interno di un edificio o un tunnel.
@@ -15421,6 +15503,7 @@
     fa = ادامه
     fi = Jatka
     fr = Continuer
+    he = המשך
     hu = Folytatás
     id = Lanjutkan
     it = Continua
@@ -15462,6 +15545,7 @@
     fa = توقف
     fi = Pysäytä
     fr = Arrêter
+    he = הפסק
     hu = Leállítás
     id = Berhenti
     it = Ferma
@@ -15503,6 +15587,7 @@
     fa = مکان فعلیتان ناشناس است.
     fi = Nykyinen sijainti on tuntematon.
     fr = L'emplacement actuel est inconnu.
+    he = המיקום הנוכחי לא ידוע.
     id = Lokasi saat ini tidak diketahui.
     it = La posizione attuale è sconosciuta.
     ja = 現在地は不明です。
@@ -15543,6 +15628,7 @@
     fa = خطایی در هنگام جست وجوی مکان شمارخ داده است.بررسی کنیید دستگاهتان به درستی کار می کند و دوباره تلاش کنید.
     fi = Tapahtui virhe määritettäessä sijaintiasi. Tarkista laitteesi ja yritä myöhemmin uudelleen.
     fr = Une erreur est survenue lors de la recherche de votre emplacement. Vérifiez que le périphérique fonctionne correctement et réessayez ultérieurement
+    he = אירעה שגיאה בעת איתור המיקום שלך. יש לוודא שהמכשיר שלך פועל כראוי ולנסות שנית מאוחר יותר.
     hu = Hiba történt tartózkodási helye keresésekor. Ellenőrizze készüléke működését és próbálkozzon újra.
     id = Terjadi kesalahan saat mencari lokasi Anda. Periksa apakah perangkat Anda bekerja dengan benar dan coba lagi nanti.
     it = Si è verificato un errore durante la ricerca della tua posizione. Controlla che il tuo dispositivo funzioni correttamente e riprova più tardi.
@@ -15584,7 +15670,7 @@
     fa = سرویس موقعیت مکانی شما غیرفعال است
     fi = Sijaintipalvelut on poistettu käytöstä
     fr = L'identification de la localisation est désactivée
-    he = זיהוי המיקום אינו מופעל
+    he = שירותי מיקום לא מופעלים
     hu = Helyzetmeghatározás kikapcsolva
     id = Identifikasi lokasi dinonaktifkan
     it = I servizi di localizzazione sono disabilitati
@@ -15626,7 +15712,7 @@
     fa = سرویس موقعیت مکانی خود را در بخش تنظیمات فعال کنید.
     fi = Salli sijaintipalveluiden käyttö laitteen asetuksissa
     fr = Permettre l'accès à la géolocalisation dans les paramètres de l'appareil
-    he = אפשרו גישה לגאולוקיישן בהגדרות המכשיר
+    he = אפשרו גישה למיקום בהגדרות המכשיר
     hu = Kapcsolja be a földrajzi helymeghatározást a készülék beállításaiban
     id = Izinkan akses ke geolokasi pada pengaturan perangkat
     it = Abilita l'accesso alla geolocalizzazione dalle impostazioni del dispositivo
@@ -15734,7 +15820,7 @@
     zh-Hant = 2. 點一下位置
 
   [location_services_disabled_3]
-    comment = iOS Dialog for the case when the location permission is not granted
+    comment = iOS Dialog for the case when the location permission is not granted; you might find the exact wording for your language here: https://support.apple.com/en-us/102647 (replace 'en-us' in URL with your language/region)
     tags = ios
     en = 3. Select While Using the App
     af = 3. Kies Terwyl u die toep gebruik
@@ -15751,6 +15837,7 @@
     eu = 3. Hautatu aplikazioa erabiltzean
     fi = 3. Valitse sovellusta käytettäessä
     fr = 3. Sélectionner tout en utilisant l'app
+    he = 3. בחרו: אפשר בעת השימוש ביישום
     hu = 3. Kiválaszt az alkalmazás használata alatt
     id = 3. Pilih While Using the App
     it = 3. Seleziona Mentre usi l'app
@@ -15776,6 +15863,7 @@
 
   [m]
     tags = android,ios
+    comment = abbreviation for meters
     en = m
     af = m
     ar = متر
@@ -15791,6 +15879,7 @@
     fa = متر
     fi = m
     fr = m
+    he = מ׳
     hu = m
     id = m
     it = m
@@ -15816,6 +15905,7 @@
 
   [km]
     tags = android,ios
+    comment = abbreviation for kilometers
     en = km
     af = km
     ar = كم
@@ -15832,6 +15922,7 @@
     fi = km
     fr = km
     hu = km
+    he = ק״מ
     id = km
     it = km
     ja = km
@@ -15856,6 +15947,7 @@
 
   [kilometers_per_hour]
     tags = android,ios
+    comment = abbreviation for kilometers per hour
     en = km/h
     af = km/h
     ar = كم/ساعة
@@ -15870,6 +15962,7 @@
     fa = کیلومتربرساعت (km/h)
     fi = km/h
     fr = km/h
+    he = קמ״ש
     hu = km/h
     id = km/j
     it = km/h
@@ -15895,6 +15988,7 @@
 
   [mi]
     tags = android,ios
+    comment = abbreviation for mile(s)
     en = mi
     af = myl
     ar = ميل
@@ -15910,6 +16004,7 @@
     fa = مایل
     fi = mi
     fr = mi
+    he = מייל
     hu = mf
     id = mil
     it = mi
@@ -15951,6 +16046,7 @@
     fa = فوت
     fi = ft
     fr = ft
+    he = רגל
     hu = ft
     id = kaki
     ja = フィート
@@ -15988,6 +16084,7 @@
     fa = مایل بر ساعت (mph)
     fi = mph
     fr = mph
+    he = מייל לשעה
     hu = mph
     id = mpj
     it = mph
@@ -16028,6 +16125,7 @@
     fa = ساعت
     fi = t
     fr = h
+    he = ש׳
     hu = ó
     id = j
     ja = 時間
@@ -16066,6 +16164,7 @@
     fa = دقیقه
     fi = min
     fr = min
+    he = ד׳
     hu = p
     id = mnt
     it = min
@@ -16107,6 +16206,7 @@
     fa = بیشتر
     fi = Lisää
     fr = Plus
+    he = עוד
     hu = Még
     id = Lainnya
     it = Di più
@@ -16147,6 +16247,7 @@
     fa = رزرو
     fi = Varaa
     fr = Réserver
+    he = הזמנה
     hu = Foglalás
     id = Pesan
     it = Prenota
@@ -16233,7 +16334,7 @@
     fa = پاداش ارجاعی دریافت شده برای هر رزرو از طریق این پیوند به سمت توسعه نقشه های ارگانیک می رود.
     fi = Jokaisesta tämän linkin kautta tehdystä varauksesta saatu suosittelubonus käytetään Organic Mapsin kehittämiseen.
     fr = La prime de parrainage reçue pour chaque réservation effectuée par l'intermédiaire de ce lien sert à développer Organic Maps.
-    he = בונוס ההפניה המתקבל עבור כל הזמנה דרך קישור זה מיועד לפיתוח מפות אורגניות.
+    he = בונוס ההפניה המתקבל עבור כל הזמנה דרך קישור זה מסייע בפיתוח של Organic Maps.
     hi = इस लिंक के माध्यम से प्रत्येक बुकिंग के लिए प्राप्त रेफरल बोनस ऑर्गेनिक मैप्स के विकास के लिए जाता है।
     hu = Az ezen a linken keresztül történő minden egyes foglalásért kapott ajánlói bónusz az Organic Maps fejlesztését szolgálja.
     id = Bonus rujukan yang diterima untuk setiap pemesanan melalui tautan ini digunakan untuk pengembangan Organic Maps.
@@ -16319,6 +16420,7 @@
     fa = تماس
     fi = Soita
     fr = Appeler
+    he = התקשר
     hu = Hívás
     id = Hubungi
     it = Chiama
@@ -16360,6 +16462,7 @@
     fa = ویرایش نشانه‌ها
     fi = Muokkaa kirjanmerkkiä
     fr = Éditer le signet
+    he = ערוך סימניה
     hu = Könyvjelző szerkesztése
     id = Edit Bookmark
     it = Modifica luogo preferito
@@ -16401,6 +16504,7 @@
     fa = نام نشانه‌ها
     fi = Kirjanmerkin nimi
     fr = Nom du signet
+    he = שם סימניה
     hu = Könyvjelző neve
     id = Nama Bookmark
     it = Nome luogo preferito
@@ -16441,6 +16545,7 @@
     fa = یاداشت‌های شخصی
     fi = Henkilökohtaiset merkinnät
     fr = Remarques personnelles
+    he = הערות אישיות
     hu = Jegyzet
     id = Catatan pribadi
     it = Note personali
@@ -16481,6 +16586,7 @@
     fa = حذف نشانه
     fi = Poista kirjanmerkki
     fr = Supprimer le signet
+    he = מחק סימניה
     hu = Könyvjelző törlése
     id = Hapus Bookmark
     it = Elimina luogo preferito
@@ -16522,6 +16628,7 @@
     fa = تغییر پیشنهادی شما ارسال شد
     fi = Ehdottamasi muutokset on lähetetty
     fr = Vos modifications suggérées ont été envoyées
+    he = השינויים המוצעים שלך נשלחו
     hu = Javasolt változtatásainak elküldése sikerült
     id = Saran perubahan Anda telah dikirim
     it = Le modifiche suggerite sono state inviate
@@ -16563,6 +16670,7 @@
     fa = اظهار نظر
     fi = Kommentti…
     fr = Commentaire…
+    he = תגובה…
     hu = Megjegyzés…
     id = Komentar…
     it = Commento…
@@ -16604,6 +16712,7 @@
     fa = آیا تغییرات محلی را نادیده می گیرید؟
     fi = Nollataanko kaikki paikalliset muutokset?
     fr = Abandonner toutes les modifications locales ?
+    he = למחוק את כל השינויים המקומיים?
     hu = Elveti az összes helyi módosítást?
     id = Atur ulang perubahan lokal?
     it = Cancellare tutte le modifiche locali?
@@ -16645,6 +16754,7 @@
     fa = نادیده گرفتن
     fi = Nollaa
     fr = Réinitialiser
+    he = מחק
     hu = Elvetés
     id = Atur Ulang
     it = Cancella
@@ -16686,6 +16796,7 @@
     fa = آیا مکان ثبت شده حذف شود؟
     fi = Poistetaanko lisätty paikka?
     fr = Supprimer le lieu ajouté ?
+    he = למחוק את המקום שהוסף?
     hu = Eltávolít egy hozzáadott objektumot?
     id = Hapus tempat yang ditambahkan?
     it = Eliminare il luogo aggiunto?
@@ -16727,6 +16838,7 @@
     fa = حذف
     fi = Poista
     fr = Supprimer
+    he = מחק
     hu = Eltávolítás
     id = Hapus
     it = Elimina
@@ -16768,6 +16880,7 @@
     fa = مکان وجود ندارد
     fi = Paikkaa ei ole olemassa
     fr = Ce lieu n'existe pas
+    he = המקום לא קיים
     hu = A hely nem létezik
     id = Tempat tidak ada
     it = Il luogo non esiste
@@ -16805,6 +16918,7 @@
     eu = Zehaztu tokia ezabatzeko arrazoia
     fi = Anna syy paikan poistamiselle
     fr = Veuillez indiquer la raison pour laquelle vous supprimez cet endroit
+    he = נא להסביר את הסיבה למחיקת המקום
     it = Indicare il motivo dell' eliminazione del luogo
     lt = Nurodykite vietos panaikinimo priežastį
     mr = कृपया ठिकाण हटवण्याचे कारण सूचित करा
@@ -16835,6 +16949,7 @@
     fa = بیشتر….
     fi = …lisää
     fr = …plus
+    he = …עוד
     hu = …tovább
     id = …selebihnya
     it = …di più
@@ -16877,6 +16992,7 @@
     fa = شماره تلفن معتبری وارد نمایید
     fi = Syötä kelvollinen puhelinnumero
     fr = Saisissez un numéro de téléphone valide
+    he = הזן מספר טלפון תקין
     hu = Adja meg a helyes telefonszámot
     id = Masukkan nomor telepon yang benar
     it = Inserisci un numero di telefono corretto
@@ -16918,6 +17034,7 @@
     fa = ادرس وب معتبری وارد نمایید
     fi = Syötä kelvollinen verkko-osoite
     fr = Saisissez une adresse Internet valide
+    he = הזן כתובת אינטרנט תקינה
     hu = Adj meg egy érvényes weboldalcímet
     id = Masukkan alamat web valid
     it = Inserisci un indirizzo web valido
@@ -16959,6 +17076,7 @@
     fa = ایمیل معتبری وارد نمایید
     fi = Syötä kelvollinen sähköpostiosoite
     fr = Saisissez un email valide
+    he = הזן אימייל תקין
     hu = Adj meg egy érvényes email-címet
     id = Masukkan surel valid
     it = Inserisci un'e-mail valida
@@ -16994,6 +17112,7 @@
     eu = Idatzi baliozko Facebook-eko web helbide, kontu edo orri izena
     fi = Syötä kelvollinen Facebook verkko-osoite, tili, tai sivun nimi
     fr = Saisissez une adresse web, un compte ou un nom de page Facebook valide
+    he = הזן כתובת פייסבוק תקינה, משתמש, או שם עמוד
     it = Inserisci un indirizzo web, un account o un nome di pagina Facebook valido
     lt = Įveskite Facebook saityno adresą, paskyrą arba puslapio pavadinimą
     mr = वैध Facebook वेब पत्ता, खाते किंवा पृष्ठ नाव प्रविष्ट करा
@@ -17018,6 +17137,7 @@
     eu = Sartu baliozko Instagram kontuaren izena edo web helbidea
     fi = Syötä kelvollinen Instagram-käyttäjätunnus tai verkko-osoite
     fr = Saisissez une adresse web, un nom de compte Instagram valide
+    he = הזן כתובת אינטרנט או שם משתמש Instagram תקינים
     it = Inserisci un indirizzo web o un nome di account Instagram valido
     lt = Įveskite Instagram saityno adresą arba paskyros pavadinimą
     mr = वैध Instagram वेब पत्ता किंवा खाते नाव प्रविष्ट करा
@@ -17042,6 +17162,7 @@
     eu = Sartu baliozko Twitter erabiltzaile izena edo web helbide bat
     fi = Syötä kelvollinen Twitter-käyttäjätunnus tai verkko-osoite
     fr = Saisissez une adresse web, un nom de compte Twitter valide
+    he = הזן כתובת אינטרנט או שם משתמש Twitter תקינים
     it = Inserisci un indirizzo web o un nome utente Twitter valido
     lt = Įveskite Twitter saityno adresą arba naudotojo vardą
     mr = वैध Twitter वेब पत्ता किंवा वापरकर्तानाव प्रविष्ट करा
@@ -17066,6 +17187,7 @@
     eu = Sartu baliozko web helbide bat edo VK kontuaren izena
     fi = Syötä kelvollinen VK-käyttäjätunnus tai verkko-osoite
     fr = Saisissez une adresse web, un nom de compte VK valide
+    he = הזן כתובת אינטרנט או שם משתמש VK תקינים
     it = Inserisci un indirizzo web o un nome di account VK valido
     lt = Įveskite VK saityno adresą arba paskyros pavadinimą
     nb = Skriv inn en gyldig VB-adresse eller -kontonavn
@@ -17090,6 +17212,7 @@
     eu = Sartu baliozko web helbidea edo LINEko IDa
     fi = Syötä kelvollinen LINE ID tai verkko-osoite
     fr = Entrez une adresse web ou un ID de LINE valide
+    he = הזן מזהה LINE או כתובת אינטרנט תקינים
     it = Inserisca un indirizzo web LINE valido o un ID LINE
     lt = Įveskite LINE saityno adresą arba LINE ID
     nb = Skriv inn en gyldig LINE-adresse eller -ID.
@@ -17118,6 +17241,7 @@
     fa = بروزرسانی
     fi = Päivitä
     fr = Mettre à jour
+    he = עדכן
     hu = Frissítés
     id = Memperbarui
     it = Aggiorna
@@ -17205,6 +17329,7 @@
     fa = آیا می خواهید آن را برای دیگر کاربران ارسال کنید؟
     fi = Haluatko lähettää sen kaikille käyttäjille?
     fr = Souhaitez-vous l’envoyer à tous les utilisateurs ?
+    he = לשלוח לכל המשתמשים?
     hu = Szeretnéd elküldeni az összes felhasználónak?
     id = Apakah Anda ingin mengirimkannya ke semua pengguna?
     it = Vuoi inviarlo a tutti gli utenti?
@@ -17247,6 +17372,7 @@
     fa = مطمئن شوید که هیچ اطلاعات شخصی وارد نکرده باشد.
     fi = Varmista, ettet syöttänyt henkilökohtaisia tietojasi.
     fr = Assurez-vous de n’avoir pas saisi de données personnelles.
+    he = יש לוודא שלא הזנת מידע אישי או פרטי.
     hu = Győződj meg arról, hogy nem adsz meg semmilyen személyes információt.
     id = Pastikan Anda tidak memasukkan data pribadi apa pun.
     it = Assicurati di non aver inserito alcun dato personale.
@@ -17328,6 +17454,7 @@
     fa = توقف
     fi = lopeta
     fr = stop
+    he = עצור
     hu = megállítás
     id = berhenti
     it = ferma
@@ -17370,6 +17497,7 @@
     fa = غیرفعال‌سازی ذخیره مسیر اخیرا طی شده
     fi = Poistetaanko viimeisen matkareitin tallennus?
     fr = Souhaitez-vous désactiver l'enregistrement de vos itinéraires récents ?
+    he = להשבית הקלטה של המסלול האחרון שלך?
     hu = Megszakítod a legutóbb megtett utad rögzítését?
     id = Nonaktifkan rekaman dari rute yang baru Anda lalui?
     it = Disattivare la registrazione del tuo percorso effettuato di recente?
@@ -17411,6 +17539,7 @@
     fa = غیرفعال
     fi = Poista
     fr = Désactiver
+    he = השבת
     hu = Megszakítás
     id = Nonaktifkan
     it = Disattiva
@@ -17494,6 +17623,7 @@
     fa = Organic Maps  از اطلاعات موقعیت مکانی شما در پس ضمینه برای ذخیره مسیر‌هایی که اخیرا سفر کرده اید استفاده می کند.
     fi = Organic Maps käyttää sijaintipalveluita taustalla viimeisimmän reittisi tallentamiseksi.
     fr = Organic Maps utilise votre géolocalisation en arrière-plan pour enregistrer vos itinéraires récents.
+    he = האפליקצייה Organic Maps משתמשת במיקום שלך ברקע כדי להקליט את המסלול האחרון שלך.
     hu = A Organic Maps a geopozíciód használatával a háttérben rögzíti a legutóbb megtett utad.
     id = Organic Maps menggunakan geoposisi di latar belakang untuk merekam rute yang baru Anda lalui.
     it = Organic Maps usa la tua posizione geografica per registrare il tuo percorso effettuato più di recente.
@@ -17536,7 +17666,7 @@
     fa = Organic Maps یک برنامه نقشه آفلاین رایگان و منبع باز است. بدون تبلیغات بدون ردیابی اگر خطایی روی نقشه مشاهده کردید، لطفاً آن را در OpenStreetMap برطرف کنید. این پروژه توسط علاقه مندان در اوقات فراغت ما ایجاد می شود، بنابراین ما به بازخورد و پشتیبانی شما نیاز داریم.
     fi = Organic Maps on ilmainen ja avoimen lähdekoodin offline-karttasovellus. Ei mainoksia. Ei seurantaa. Jos näet virheen kartalla, korjaa se OpenStreetMapissa. Hankkeen ovat luoneet harrastajat vapaa-ajallaan, joten palautettasi ja tukeasi tarvitaan.
     fr = Organic Maps est une application de cartographie hors ligne gratuite et open source. Pas de pubs. Pas de localisation. Si vous voyez une erreur sur la carte, veuillez la corriger dans OpenStreetMap. Le projet est créé par des passionnés pendant notre temps libre, nous avons donc besoin de vos commentaires et de votre soutien.
-    he = Organic Maps היא אפליקציית מפות לא מקוונות בחינם ובקוד פתוח. ללא פרסומות. אין מעקב. אם אתה רואה שגיאה במפה, אנא תקן אותה ב-OpenStreetMap. הפרויקט נוצר על ידי חובבים בזמננו הפנוי, אז אנו זקוקים למשוב ולתמיכה שלכם.
+    he = Organic Maps היא אפליקציית מפות לא מקוונות מהירה, בחינם ובקוד פתוח, ללא פרסומות וללא מעקב. אם אתה רואה שגיאה במפה, אנא תקן אותה ב-OpenStreetMap. הפרויקט נוצר על ידי חובבים בזמננו הפנוי, אז אנו זקוקים למשוב ולתמיכה שלכם.
     hu = Az Organic Maps egy gyors és ingyenes offline térképalkalmazás hirdetések és nyomkövetés nélkül. A térképek az OpenStreetMap.org közösség által fenntartott adatain alapulnak, így a térképen megtalálható hibákat te is javíthatod, és adhatsz hozzá új helyeket. Az Organic Maps egy nyílt forráskódú projekt, amelyet lelkes fejlesztők hoztak létre szabadidejükben. Visszajelzéseidet és támogatásodat nagyra értékeljük!
     id = Organic Maps adalah aplikasi peta offline sumber terbuka dan gratis. Tanpa iklan. Tidak ada pelacakan. Jika Anda melihat kesalahan pada peta, harap perbaiki di OpenStreetMap. Proyek ini dibuat oleh para penggemar di waktu luang kami, jadi kami membutuhkan masukan dan dukungan Anda.
     it = Organic Maps è un'applicazione gratuita e open-source di mappe offline. Nessuna pubblicità. Nessun tracciamento. Se vedi un errore sulla mappa, correggilo in OpenStreetMap. Il progetto è creato da appassionati nel nostro tempo libero, quindi abbiamo bisogno del vostro parere e sostegno.
@@ -17579,6 +17709,7 @@
     fa = تنظیمات عمومی
     fi = Yleiset asetukset
     fr = Paramètres généraux
+    he = הגדרות כלליות
     hu = Általános beállítások
     id = Setelan umum
     it = Impostazioni generali
@@ -17621,6 +17752,7 @@
     fa = موافقم
     fi = Hyväksy
     fr = Accepter
+    he = קבל
     hu = Elfogad
     id = Terima
     it = Accetta
@@ -17663,6 +17795,7 @@
     fa = کاهش
     fi = Hylkää
     fr = Refuser
+    he = דחה
     hu = Elutasít
     id = Tolak
     it = Rifiuta
@@ -17705,6 +17838,7 @@
     fa = لیست
     fi = Luettelo
     fr = Liste
+    he = רשימה
     hu = Lista
     id = Daftar
     it = Elenco
@@ -17746,6 +17880,7 @@
     fa = از دیتای موبایل برای نمایش اطلاعات بیشتر استفاده شود؟
     fi = Näytetäänkö lisätiedot mobiili-internetillä?
     fr = Utiliser l'Internet mobile pour afficher les informations détaillées ?
+    he = השתמש באינטרנט סלולרי כדי להראות מידע מפורט?
     hu = Részletes információk megjelenítése a mobil internet segítségével?
     id = Gunakan internet seluler untuk memperlihatkan informasi terperinci?
     it = Usare l'Internet mobile per mostrare le informazioni dettagliate?
@@ -17787,6 +17922,7 @@
     fa = همیشه استفاده کن
     fi = Käytä aina
     fr = Toujours utiliser
+    he = השתמש תמיד
     hu = Mindig használja
     id = Selalu Gunakan
     it = Usa sempre
@@ -17828,6 +17964,7 @@
     fa = فقط امروز
     fi = Vain tänään
     fr = Aujourd'hui seulement
+    he = רק היום
     hu = Csak ma
     id = Hanya Hari Ini
     it = Solo oggi
@@ -17869,6 +18006,7 @@
     fa = امروز نه
     fi = Älä käytä tänään
     fr = Ne pas utiliser aujourd'hui
+    he = אל תשתמש היום
     hu = Ma nem használhatja
     id = Jangan Gunakan Hari Ini
     it = Non usare oggi
@@ -17910,6 +18048,7 @@
     fa = دیتای موبایل
     fi = Mobiili-internet
     fr = Internet mobile
+    he = אינטרנט סלולרי
     hu = Mobil Internet
     id = Internet Seluler
     it = Internet mobile
@@ -17952,6 +18091,7 @@
     fa = برای نمایش جزئیات مکان مانند تصاویر قیمت‌ها و بازخورد‌ها به اینترنت همراه نیاز است
     fi = Mobiili-internet vaaditaan paikkojen lisätietojen, kuten valokuvien, hintojen ja arvioiden näyttämiseen.
     fr = L'Internet mobile est nécessaire pour afficher des informations détaillées sur les lieux, telles que les photos, les prix et les avis.
+    he = אינטרנט סלולרי נחוץ בשביל הודעות על עדכון מפות ובשביל העלאת עריכות.
     hu = Mobilinternet szükséges a térképfrissítési értesítésekhez, valamint a helyszínekre és könyvjelzőkre vonatkozó részletes információk megjelenítéséhez.
     id = Internet seluler diperlukan untuk menampilkan informasi terperinci tentang tempat, seperti foto, harga, dan ulasan.
     it = L'Internet mobile è necessario per visualizzare informazioni dettagliate sulle località, ad esempio foto, prezzi e recensioni.
@@ -17993,6 +18133,7 @@
     fa = هرگز
     fi = Älä käytä koskaan
     fr = Ne jamais utiliser
+    he = אף פעם אל תשתמש
     hu = Soha se használja
     id = Jangan Gunakan
     it = Non usare mai
@@ -18034,6 +18175,7 @@
     fa = همیشه بپرس
     fi = Kysy aina
     fr = Toujours demander
+    he = שאל תמיד
     hu = Mindig kérdezze meg
     id = Selalu Tanya
     it = Chiedi sempre
@@ -18075,6 +18217,7 @@
     fa = برای نمایش ترافیک، نقشه می بایستی بروزرسانی شود.
     fi = Liikennetietojen näyttämiseksi kartat on päivitettävä.
     fr = Pour afficher les données de circulation, les cartes doivent être actualisées.
+    he = כדי להציג מידע על עומס תנועה, יש לעדכן את המפות.
     hu = Forgalmi adatok megjelenítéséhez a térképeket frissíteni kell.
     id = Untuk memperlihatkan data lalu lintas, peta harus diperbarui.
     it = Per visualizzare i dati sul traffico, le mappe devono essere aggiornate.
@@ -18116,6 +18259,7 @@
     fa = افزایش اندازه متن بر روی نقشه
     fi = Suurenna fonttikokoa kartalla
     fr = Augmenter la taille de police sur la carte
+    he = הגדל תגיות במפה
     hu = Betűméret növelése a térképen
     id = Perbesar ukuran huruf pada peta
     it = Aumenta caratteri sulla mappa
@@ -18157,6 +18301,7 @@
     fa = لطفا Organic Maps را بروزرسانی کنید
     fi = Päivitä Organic Maps
     fr = Veuillez mettre à jour Organic Maps
+    he = נא לעדכן את Organic Maps
     hu = Kérjük, frissítse a Organic Maps alkalmazást
     id = Perbarui Organic Maps
     it = Aggiorna Organic Maps
@@ -18199,6 +18344,7 @@
     fa = برای نمایش ترافیک باید اپلیکیشن را بروزرسانی کنید.
     fi = Liikennetietojen näyttämiseksi sovellus on päivitettävä.
     fr = Pour afficher les données de circulation, l'application doit être actualisée.
+    he = כדי להציג מידע על עומס תנועה, יש לעדכן את האפליקצייה.
     hu = A forgalmi adatok megjelenítéséhez frissíteni kell az alkalmazást.
     id = Untuk menampilkan data lalu lintas, aplikasi ini harus diperbarui.
     it = Per visualizzare i dati sul traffico, l'applicazione deve essere aggiornata.
@@ -18241,6 +18387,7 @@
     fa = اطلاعات ترافیکی موجود نیست
     fi = Liikennetietoja ei ole saatavilla
     fr = Les données de circulation ne sont pas disponibles
+    he = מידע על עומס תנועה לא זמין.
     hu = Forgalmi adatok nem állnak rendelkezésre
     id = Data lalu lintas tidak tersedia
     it = Dati sul traffico non disponibili
@@ -18282,6 +18429,7 @@
     fa = ورود به سیستم را فعال کنید
     fi = Ota loki käyttöön
     fr = Activer le journal
+    he = הפעל logging
     hu = Naplózás engedélyezése
     id = Aktifkan pencatatan
     it = Abilita i registri
@@ -18324,6 +18472,7 @@
     fa = "تنظیمات: دکمه "ارسال بازخورد کلی
     fi = Yleinen palaute
     fr = Feedback général
+    he = משוב כללי
     hu = Általános visszajelzés
     id = Umpan Balik Umum
     it = Feedback generale
@@ -18366,6 +18515,7 @@
     fa = ما از TTS سیستم برای دستورالعمل‌های صوتی استفاده می کنیم. بسیاری از دستگاه‌های Android از Google TTS استفاده می کنند، شما می توانید آن را از Google Play دانلود کنید (https://play.google.com/store/apps/details؟id=com.google.android.tts)
     fi = Käytämme ääniohjeisiin tekstistä puheeksi -järjestelmää. Monet Android-laitteet käyttävät Googlen tekstistä puheeksi -sovellusta, jonka voit ladata tai päivittää Google Playssä (https://play.google.com/store/apps/details?id=com.google.android.tts)
     fr = Nous utilisons le système TTS pour les instructions vocales. De nombreux appareils Android utilisent Google TTS, vous pouvez le télécharger ou le mettre à jour depuis Google Play (https://play.google.com/store/apps/details?id=com.google.android.tts)
+    he = אנחנו משתמשים מערכת TTS של המערכת כדי לספק הנחיות קוליות. הרבה מכשירי Android מוגדרים להשתמש ב-Google TTS, שניתן להוריד ולעדכן מחנות Play (https://play.google.com/store/apps/details?id=com.google.android.tts)
     hu = TTS rendszert használunk a hangnavigációhoz. Sok Android-os készülék használja a Google TTS-t; töltse le vagy frissítse a Google Play áruházból (https://play.google.com/store/apps/details?id=com.google.android.tts)
     id = Kami menggunakan TTS sistem untuk petunjuk suara. Banyak perangkat Android menggunakan Google TTS, Anda dapat mengunduhnya dari Google Play (https://play.google.com/store/apps/details?id=com.google.android.tts)
     it = Usiamo il TTS di sistema per le istruzioni vocali. Molti dispositivi Android utilizzano Google TTS, che puoi scaricare o aggiornare da Google Play (https://play.google.com/store/apps/details?id=com.google.android.tts)
