@@ -936,6 +936,7 @@
     fa = فاحشه خانه
     fi = Bordelli
     fr = Maison de prostitution
+    he = בית בושת
     hi = वेश्यालय
     hu = Bordélyház
     id = Hiburan
@@ -1014,6 +1015,7 @@
     fa = حمل و نقل
     fi = Linja-autoasema
     fr = Gare routière
+    he = תחנת אוטובוס
     hi = बस स्टेशन
     hu = Buszpályaudvar
     id = Stasiun bus
@@ -1053,6 +1055,7 @@
     fa = کافه
     fi = Kahvila
     fr = Café
+    he = קפה
     hi = कॉफ़ीख़ाना
     hu = Kávézó
     id = Kafe
@@ -1093,6 +1096,7 @@
     fa = مکان اجاره ماشین
     fi = Autovuokraamo
     fr = Location de voitures
+    he = השכרת רכב
     hi = किराए पर गाड़ियाँ
     hu = Autókölcsönző
     id = Rental mobil
@@ -1131,6 +1135,7 @@
     eu = Partekatu autoa
     fi = Autojen yhteiskäyttö
     fr = Station d'autopartage
+    he = רכב שיתופי
     hi = गाड़ी साँझा
     hu = Közösségi autóbérlés
     id = Berbagi mobil
@@ -1170,6 +1175,7 @@
     fa = کارواش
     fi = Autopesula
     fr = Station de lavage
+    he = שטיפת רכב
     hi = कार धुलाई
     hu = Autómosó
     id = Cuci Mobil
@@ -26694,6 +26700,7 @@
     fa = فروشگاه
     fi = Kenkäkauppa
     fr = Magasin de chaussures
+    he = חנות נעליים
     hi = जूते की दुकान
     hu = Cipőbolt
     id = Toko sepatu
@@ -29636,6 +29643,7 @@
     eu = Turismoa
     fi = Turismi
     fr = Tourisme
+    he = תיירות
     hi = पर्यटन
     it = Turismo
     ja = 観光
