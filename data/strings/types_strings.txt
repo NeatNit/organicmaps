@@ -18,7 +18,7 @@
     fa = آدرس/بلاک
     fi = Osoite/lohko
     fr = Adresse/Bloc
-    he = כתובת/חסימה
+    he = כתובת/בלוק
     hu = Cím/blokk
     id = Alamat/Blokir
     it = Indirizzo/Blocco
